@@ -1,0 +1,377 @@
+date,homeTeam,homeTeam_id,homeTeam_points_total,homeTeam_points_q1,homeTeam_points_q2,homeTeam_points_q3,homeTeam_points_q4,homeTeam_points_1OT,homeTeam_points_2OT,homeTeam_points_3OT,homeTeam_points_4OT,homeTeam_FG,homeTeam_3P,homeTeam_O_Reb,homeTeam_D_Reb,homeTeam_Total_Reb,homeTeam_Ast,homeTeam_Stl,homeTeam_Blk,homeTeam_TO,homeTeam_PF,awayTeam,awayTeam_id,awayTeam_points_total,awayTeam_points_q1,awayTeam_points_q2,awayTeam_points_q3,awayTeam_points_q4,awayTeam_points_1OT,awayTeam_points_2OT,awayTeam_points_3OT,awayTeam_points_4OT,awayTeam_FG,awayTeam_3P,awayTeam_O_Reb,awayTeam_D_Reb,awayTeam_Total_Reb,awayTeam_Ast,awayTeam_Stl,awayTeam_Blk,awayTeam_TO,awayTeam_PF,winner
+"October 22, 2024",Boston Celtics,BOS,132,43,31,39,19,0,0,0,0,48-95,29-61,11,29,40,33,6,3,3,15,New York Knicks,NYK,109,24,31,32,22,0,0,0,0,43-78,11-30,5,29,34,20,2,3,11,12,Boston Celtics
+"October 22, 2024",Los Angeles Lakers,LAL,110,22,33,27,28,0,0,0,0,42-95,5-30,15,31,46,22,7,8,7,22,Minnesota Timberwolves,MIN,103,23,19,32,29,0,0,0,0,35-85,13-41,12,35,47,17,4,1,15,22,Los Angeles Lakers
+"October 23, 2024",Detroit Pistons,DET,109,31,27,32,19,0,0,0,0,38-88,9-33,12,26,38,22,6,2,12,21,Indiana Pacers,IND,115,25,24,33,33,0,0,0,0,42-83,9-31,7,32,39,32,10,8,15,23,Indiana Pacers
+"October 23, 2024",Atlanta Hawks,ATL,120,30,21,32,37,0,0,0,0,39-80,9-28,12,33,45,25,12,9,16,20,Brooklyn Nets,BKN,116,24,31,28,33,0,0,0,0,40-91,17-43,12,31,43,21,8,6,17,32,Atlanta Hawks
+"October 23, 2024",Miami Heat,MIA,97,32,22,18,25,0,0,0,0,32-82,11-34,9,32,41,24,5,8,11,19,Orlando Magic,ORL,116,32,26,39,19,0,0,0,0,41-96,18-49,18,39,57,28,8,8,11,21,Orlando Magic
+"October 23, 2024",Philadelphia 76ers,PHI,109,23,24,34,28,0,0,0,0,41-98,8-31,17,32,49,18,4,2,10,28,Milwaukee Bucks,MIL,124,22,36,42,24,0,0,0,0,43-80,16-37,8,38,46,27,4,9,14,23,Milwaukee Bucks
+"October 23, 2024",Toronto Raptors,TOR,106,32,17,30,27,0,0,0,0,36-86,12-31,14,24,38,25,8,6,18,24,Cleveland Cavaliers,CLE,136,33,36,36,31,0,0,0,0,51-87,14-30,8,28,36,29,10,9,12,22,Cleveland Cavaliers
+"October 23, 2024",Houston Rockets,HOU,105,26,34,23,22,0,0,0,0,38-103,13-43,16,27,43,19,8,4,8,18,Charlotte Hornets,CHA,110,21,28,30,31,0,0,0,0,38-85,15-39,15,41,56,20,6,10,16,21,Charlotte Hornets
+"October 23, 2024",New Orleans Pelicans,NOP,123,29,30,36,28,0,0,0,0,45-97,14-37,7,35,42,29,15,10,11,17,Chicago Bulls,CHI,111,25,33,25,28,0,0,0,0,42-86,10-34,9,38,47,26,4,2,21,16,New Orleans Pelicans
+"October 23, 2024",Utah Jazz,UTA,124,23,27,36,38,0,0,0,0,40-85,10-26,14,35,49,21,7,9,14,24,Memphis Grizzlies,MEM,126,29,32,32,33,0,0,0,0,43-91,17-45,13,28,41,28,7,5,12,35,Memphis Grizzlies
+"October 23, 2024",Los Angeles Clippers,LAC,113,22,17,35,29,10,0,0,0,42-92,8-29,13,38,51,27,9,1,21,29,Phoenix Suns,PHX,116,23,24,25,31,13,0,0,0,38-78,15-38,4,38,42,25,12,9,22,23,Phoenix Suns
+"October 23, 2024",Portland Trail Blazers,POR,104,21,29,22,32,0,0,0,0,36-92,8-34,13,29,42,21,10,4,17,22,Golden State Warriors,GSW,140,21,41,38,40,0,0,0,0,48-93,20-48,15,42,57,38,13,5,17,27,Golden State Warriors
+"October 24, 2024",Washington Wizards,WAS,102,32,22,19,29,0,0,0,0,41-95,7-36,10,30,40,27,9,6,13,19,Boston Celtics,BOS,122,33,31,34,24,0,0,0,0,42-90,17-45,12,37,49,21,7,3,14,19,Boston Celtics
+"October 24, 2024",Dallas Mavericks,DAL,120,20,27,40,33,0,0,0,0,42-102,19-44,17,33,50,27,9,5,9,21,San Antonio Spurs,SAS,109,22,27,31,29,0,0,0,0,39-86,12-36,12,40,52,30,6,5,19,18,Dallas Mavericks
+"October 24, 2024",Denver Nuggets,DEN,87,24,27,17,19,0,0,0,0,35-98,7-38,17,40,57,29,11,7,15,12,Oklahoma City Thunder,OKC,102,31,27,27,17,0,0,0,0,43-101,8-36,13,36,49,23,9,13,12,15,Oklahoma City Thunder
+"October 24, 2024",Sacramento Kings,SAC,115,32,27,29,27,0,0,0,0,38-82,11-29,4,34,38,21,7,2,9,18,Minnesota Timberwolves,MIN,117,29,26,34,28,0,0,0,0,41-86,20-50,6,36,42,24,3,2,16,24,Minnesota Timberwolves
+"October 25, 2024",Orlando Magic,ORL,116,22,27,32,35,0,0,0,0,39-75,15-30,5,34,39,28,10,7,12,19,Brooklyn Nets,BKN,101,23,23,25,30,0,0,0,0,35-83,14-37,8,29,37,22,7,3,17,31,Orlando Magic
+"October 25, 2024",Toronto Raptors,TOR,115,30,32,21,32,0,0,0,0,35-76,6-23,18,36,54,25,11,13,26,34,Philadelphia 76ers,PHI,107,31,25,21,30,0,0,0,0,29-76,9-29,10,18,28,19,11,5,16,32,Toronto Raptors
+"October 25, 2024",Atlanta Hawks,ATL,125,28,34,26,37,0,0,0,0,39-81,14-38,7,32,39,25,11,9,13,28,Charlotte Hornets,CHA,120,16,42,27,35,0,0,0,0,37-96,21-51,22,31,53,22,7,4,17,28,Atlanta Hawks
+"October 25, 2024",Cleveland Cavaliers,CLE,113,28,37,26,22,0,0,0,0,42-82,13-34,5,34,39,28,13,4,12,15,Detroit Pistons,DET,101,29,26,24,22,0,0,0,0,38-81,13-32,8,34,42,25,3,5,22,22,Cleveland Cavaliers
+"October 25, 2024",New York Knicks,NYK,123,25,36,34,28,0,0,0,0,44-84,12-27,11,32,43,19,5,4,11,18,Indiana Pacers,IND,98,24,21,19,34,0,0,0,0,41-83,3-30,9,24,33,28,8,6,15,24,New York Knicks
+"October 25, 2024",Houston Rockets,HOU,128,38,21,39,30,0,0,0,0,43-98,17-43,23,41,64,20,10,4,17,32,Memphis Grizzlies,MEM,108,38,27,18,25,0,0,0,0,38-91,10-28,14,29,43,24,8,8,17,25,Houston Rockets
+"October 25, 2024",Milwaukee Bucks,MIL,122,32,32,31,27,0,0,0,0,46-93,13-40,8,39,47,24,5,3,14,14,Chicago Bulls,CHI,133,30,33,39,31,0,0,0,0,46-96,21-47,9,37,46,30,10,4,9,17,Chicago Bulls
+"October 25, 2024",Utah Jazz,UTA,86,24,18,28,16,0,0,0,0,29-92,9-42,14,31,45,18,8,5,22,11,Golden State Warriors,GSW,127,32,24,38,33,0,0,0,0,51-106,20-50,19,41,60,35,15,6,13,25,Golden State Warriors
+"October 25, 2024",Los Angeles Lakers,LAL,123,23,29,35,36,0,0,0,0,40-75,14-27,6,31,37,33,10,5,12,18,Phoenix Suns,PHX,116,38,23,24,31,0,0,0,0,42-82,17-37,5,29,34,35,8,4,16,26,Los Angeles Lakers
+"October 25, 2024",Portland Trail Blazers,POR,103,27,20,37,19,0,0,0,0,37-90,13-37,10,38,48,26,7,11,19,22,New Orleans Pelicans,NOP,105,15,22,38,30,0,0,0,0,36-86,12-32,11,33,44,25,12,8,14,22,New Orleans Pelicans
+"October 26, 2024",Denver Nuggets,DEN,104,19,23,29,33,0,0,0,0,35-87,14-35,10,27,37,20,13,4,10,22,Los Angeles Clippers,LAC,109,27,21,22,39,0,0,0,0,40-82,12-33,11,33,44,30,4,5,16,24,Los Angeles Clippers
+"October 26, 2024",Charlotte Hornets,CHA,106,23,25,24,34,0,0,0,0,39-89,13-41,15,31,46,20,6,5,17,24,Miami Heat,MIA,114,23,33,27,31,0,0,0,0,40-86,14-34,13,30,43,33,8,6,13,19,Miami Heat
+"October 26, 2024",Detroit Pistons,DET,118,31,31,31,25,0,0,0,0,43-88,14-39,9,35,44,27,4,7,14,22,Boston Celtics,BOS,124,42,31,21,30,0,0,0,0,38-90,22-48,13,24,37,19,10,6,10,16,Boston Celtics
+"October 26, 2024",Washington Wizards,WAS,116,25,28,28,35,0,0,0,0,37-96,15-43,18,28,46,25,6,9,15,25,Cleveland Cavaliers,CLE,135,28,31,38,38,0,0,0,0,47-88,18-39,11,37,48,27,13,10,16,27,Cleveland Cavaliers
+"October 26, 2024",Chicago Bulls,CHI,95,21,18,26,30,0,0,0,0,32-92,15-53,11,50,61,23,6,2,26,19,Oklahoma City Thunder,OKC,114,26,33,29,26,0,0,0,0,45-107,8-40,9,45,54,21,15,5,10,18,Oklahoma City Thunder
+"October 26, 2024",Memphis Grizzlies,MEM,124,34,35,21,34,0,0,0,0,46-86,13-34,6,36,42,38,10,5,18,24,Orlando Magic,ORL,111,24,19,35,33,0,0,0,0,37-87,17-48,12,29,41,21,10,6,19,20,Memphis Grizzlies
+"October 26, 2024",Minnesota Timberwolves,MIN,112,32,24,33,23,0,0,0,0,39-83,14-37,9,32,41,29,9,8,13,16,Toronto Raptors,TOR,101,18,26,28,29,0,0,0,0,41-90,10-29,12,34,46,29,9,4,20,22,Minnesota Timberwolves
+"October 26, 2024",San Antonio Spurs,SAS,109,38,24,25,22,0,0,0,0,39-79,8-20,10,39,49,23,6,7,17,18,Houston Rockets,HOU,106,31,10,28,37,0,0,0,0,38-92,13-41,8,26,34,21,10,3,10,24,San Antonio Spurs
+"October 26, 2024",Phoenix Suns,PHX,114,28,35,28,23,0,0,0,0,36-80,14-39,7,40,47,26,3,4,11,17,Dallas Mavericks,DAL,102,26,29,25,22,0,0,0,0,37-93,13-41,12,34,46,22,6,2,8,28,Phoenix Suns
+"October 26, 2024",Los Angeles Lakers,LAL,131,28,36,23,44,0,0,0,0,48-92,14-34,13,32,45,32,8,3,19,19,Sacramento Kings,SAC,127,26,34,34,33,0,0,0,0,45-88,15-44,5,27,32,32,12,5,14,19,Los Angeles Lakers
+"October 27, 2024",Indiana Pacers,IND,114,23,35,20,27,9,0,0,0,39-84,13-32,7,30,37,28,8,4,19,26,Philadelphia 76ers,PHI,118,28,24,27,26,13,0,0,0,42-98,11-42,20,34,54,15,9,4,19,26,Philadelphia 76ers
+"October 27, 2024",Brooklyn Nets,BKN,115,27,21,35,32,0,0,0,0,39-91,16-45,12,35,47,23,9,3,12,26,Milwaukee Bucks,MIL,102,25,20,33,24,0,0,0,0,33-74,10-33,7,36,43,20,7,3,18,17,Brooklyn Nets
+"October 27, 2024",Portland Trail Blazers,POR,125,26,33,34,32,0,0,0,0,43-93,14-35,22,29,51,25,9,8,16,21,New Orleans Pelicans,NOP,103,25,22,30,26,0,0,0,0,38-88,8-29,15,24,39,24,9,8,15,22,Portland Trail Blazers
+"October 27, 2024",Oklahoma City Thunder,OKC,128,23,34,32,39,0,0,0,0,44-89,16-40,11,34,45,26,13,12,10,23,Atlanta Hawks,ATL,104,27,31,28,18,0,0,0,0,36-91,10-31,17,32,49,24,7,4,19,23,Oklahoma City Thunder
+"October 27, 2024",Golden State Warriors,GSW,104,34,20,25,25,0,0,0,0,38-88,14-43,14,33,47,19,10,5,21,22,Los Angeles Clippers,LAC,112,34,25,27,26,0,0,0,0,42-90,10-32,14,34,48,27,11,2,18,21,Los Angeles Clippers
+"October 28, 2024",Orlando Magic,ORL,119,35,36,22,26,0,0,0,0,39-83,13-41,11,35,46,26,7,6,15,25,Indiana Pacers,IND,115,36,23,39,17,0,0,0,0,41-88,13-29,15,29,44,25,7,4,12,28,Orlando Magic
+"October 28, 2024",Atlanta Hawks,ATL,119,28,33,22,36,0,0,0,0,39-81,15-40,6,33,39,32,12,7,16,22,Washington Wizards,WAS,121,25,29,30,37,0,0,0,0,41-91,21-44,9,34,43,24,7,3,18,25,Washington Wizards
+"October 28, 2024",Boston Celtics,BOS,119,28,25,37,29,0,0,0,0,43-87,18-47,4,34,38,24,5,5,12,18,Milwaukee Bucks,MIL,108,29,27,26,26,0,0,0,0,37-82,8-31,8,35,43,18,7,6,16,24,Boston Celtics
+"October 28, 2024",Miami Heat,MIA,106,28,36,14,28,0,0,0,0,38-88,15-47,10,34,44,24,14,3,9,14,Detroit Pistons,DET,98,30,23,26,19,0,0,0,0,35-91,14-38,19,35,54,14,6,6,16,19,Miami Heat
+"October 28, 2024",New York Knicks,NYK,104,18,34,26,26,0,0,0,0,40-90,9-28,13,30,43,22,8,3,16,21,Cleveland Cavaliers,CLE,110,22,23,29,36,0,0,0,0,39-82,12-36,9,32,41,21,10,5,13,20,Cleveland Cavaliers
+"October 28, 2024",Toronto Raptors,TOR,125,30,32,26,26,11,0,0,0,49-109,10-35,18,36,54,30,7,7,15,27,Denver Nuggets,DEN,127,29,25,29,31,13,0,0,0,47-96,9-20,15,37,52,29,6,6,16,20,Denver Nuggets
+"October 28, 2024",Memphis Grizzlies,MEM,123,32,36,32,23,0,0,0,0,51-111,14-43,18,42,60,37,5,9,10,21,Chicago Bulls,CHI,126,22,32,39,33,0,0,0,0,45-100,25-53,11,39,50,36,5,6,9,15,Chicago Bulls
+"October 28, 2024",San Antonio Spurs,SAS,101,15,30,30,26,0,0,0,0,37-87,10-33,17,32,49,22,6,6,17,21,Houston Rockets,HOU,106,29,33,25,19,0,0,0,0,35-85,15-37,13,30,43,20,6,2,12,23,Houston Rockets
+"October 28, 2024",Dallas Mavericks,DAL,110,27,22,33,28,0,0,0,0,43-95,11-39,13,37,50,27,9,12,13,23,Utah Jazz,UTA,102,19,24,27,32,0,0,0,0,34-92,10-35,15,35,50,24,7,5,13,17,Dallas Mavericks
+"October 28, 2024",Phoenix Suns,PHX,109,25,25,26,33,0,0,0,0,40-87,11-36,9,37,46,21,7,11,10,22,Los Angeles Lakers,LAL,105,34,14,35,22,0,0,0,0,39-94,14-32,11,35,46,25,5,6,11,19,Phoenix Suns
+"October 28, 2024",Sacramento Kings,SAC,111,25,26,38,22,0,0,0,0,37-81,14-35,9,31,40,25,8,6,14,27,Portland Trail Blazers,POR,98,20,23,28,27,0,0,0,0,35-83,4-22,12,34,46,17,5,4,17,22,Sacramento Kings
+"October 29, 2024",Brooklyn Nets,BKN,139,40,32,27,26,14,0,0,0,49-96,20-52,7,34,41,37,4,6,8,32,Denver Nuggets,DEN,144,27,36,33,29,19,0,0,0,46-89,13-27,9,34,43,31,3,4,5,22,Denver Nuggets
+"October 29, 2024",Minnesota Timberwolves,MIN,114,34,25,23,32,0,0,0,0,39-77,19-39,11,31,42,33,5,2,20,20,Dallas Mavericks,DAL,120,26,35,32,27,0,0,0,0,45-93,16-39,12,28,40,25,12,2,9,21,Dallas Mavericks
+"October 29, 2024",Utah Jazz,UTA,96,22,30,14,30,0,0,0,0,35-89,14-48,12,30,42,24,7,4,17,16,Sacramento Kings,SAC,113,34,27,29,23,0,0,0,0,48-92,8-31,9,40,49,26,9,9,11,19,Sacramento Kings
+"October 29, 2024",Golden State Warriors,GSW,124,14,33,40,37,0,0,0,0,46-97,21-46,11,23,34,34,15,9,7,20,New Orleans Pelicans,NOP,106,31,20,28,27,0,0,0,0,40-74,9-22,9,35,44,23,4,6,23,13,Golden State Warriors
+"October 30, 2024",Charlotte Hornets,CHA,138,30,34,39,35,0,0,0,0,49-94,20-45,14,24,38,31,9,8,15,24,Toronto Raptors,TOR,133,16,43,37,37,0,0,0,0,52-91,9-28,13,28,41,37,9,5,14,25,Charlotte Hornets
+"October 30, 2024",Cleveland Cavaliers,CLE,134,42,25,32,35,0,0,0,0,56-97,17-41,6,30,36,37,14,2,12,26,Los Angeles Lakers,LAL,110,23,25,31,31,0,0,0,0,38-77,6-28,5,32,37,21,6,0,20,7,Cleveland Cavaliers
+"October 30, 2024",Indiana Pacers,IND,135,35,32,33,24,11,0,0,0,50-104,15-38,16,41,57,33,10,5,18,26,Boston Celtics,BOS,132,31,26,29,38,8,0,0,0,44-109,19-57,18,33,51,23,11,5,14,19,Indiana Pacers
+"October 30, 2024",Philadelphia 76ers,PHI,95,26,19,22,28,0,0,0,0,33-79,8-28,8,29,37,17,7,4,9,21,Detroit Pistons,DET,105,22,32,31,20,0,0,0,0,36-78,15-36,12,37,49,23,4,5,16,25,Detroit Pistons
+"October 30, 2024",Washington Wizards,WAS,133,33,24,36,40,0,0,0,0,47-89,16-38,6,31,37,32,10,5,14,21,Atlanta Hawks,ATL,120,34,31,27,28,0,0,0,0,45-95,12-39,12,29,41,28,10,3,15,19,Washington Wizards
+"October 30, 2024",Miami Heat,MIA,107,32,26,22,27,0,0,0,0,37-81,17-40,7,32,39,27,6,3,10,17,New York Knicks,NYK,116,26,26,35,29,0,0,0,0,40-82,18-40,7,35,42,30,8,4,9,16,New York Knicks
+"October 30, 2024",Chicago Bulls,CHI,102,18,34,34,16,0,0,0,0,36-84,13-34,9,45,54,23,6,2,14,16,Orlando Magic,ORL,99,33,29,25,12,0,0,0,0,35-86,11-46,6,36,42,25,9,8,12,19,Chicago Bulls
+"October 30, 2024",Memphis Grizzlies,MEM,106,29,33,28,16,0,0,0,0,38-81,8-27,12,26,38,27,9,3,22,21,Brooklyn Nets,BKN,119,34,33,24,28,0,0,0,0,41-80,15-41,8,26,34,27,10,2,15,25,Brooklyn Nets
+"October 30, 2024",Oklahoma City Thunder,OKC,105,26,33,23,23,0,0,0,0,41-89,17-41,5,34,39,28,18,6,10,15,San Antonio Spurs,SAS,93,19,25,26,23,0,0,0,0,35-85,12-36,13,39,52,22,6,6,22,8,Oklahoma City Thunder
+"October 30, 2024",Golden State Warriors,GSW,104,28,20,31,25,0,0,0,0,41-87,13-38,13,29,42,32,5,9,13,22,New Orleans Pelicans,NOP,89,20,24,22,23,0,0,0,0,33-90,11-36,18,31,49,24,7,6,14,17,Golden State Warriors
+"October 30, 2024",Los Angeles Clippers,LAC,105,26,24,35,20,0,0,0,0,41-90,13-36,13,36,49,26,10,5,13,19,Portland Trail Blazers,POR,106,24,30,28,24,0,0,0,0,41-92,14-33,12,35,47,19,9,6,12,18,Portland Trail Blazers
+"October 31, 2024",Memphis Grizzlies,MEM,122,40,30,29,23,0,0,0,0,43-82,8-28,7,49,56,26,6,3,16,21,Milwaukee Bucks,MIL,99,24,24,22,29,0,0,0,0,41-96,9-42,9,29,38,20,10,4,10,27,Memphis Grizzlies
+"October 31, 2024",Dallas Mavericks,DAL,102,21,23,28,30,0,0,0,0,39-85,10-30,10,27,37,21,6,7,10,27,Houston Rockets,HOU,108,34,23,31,20,0,0,0,0,40-97,8-34,18,32,50,21,4,4,8,20,Houston Rockets
+"October 31, 2024",Utah Jazz,UTA,88,30,23,14,21,0,0,0,0,32-82,7-32,15,38,53,19,6,6,26,19,San Antonio Spurs,SAS,106,19,28,30,29,0,0,0,0,38-92,12-43,11,31,42,25,17,7,11,17,San Antonio Spurs
+"October 31, 2024",Los Angeles Clippers,LAC,119,37,33,23,26,0,0,0,0,45-93,12-35,15,33,48,27,8,8,14,22,Phoenix Suns,PHX,125,20,32,39,34,0,0,0,0,42-82,18-39,8,31,39,29,12,4,12,20,Phoenix Suns
+"November 01, 2024",Charlotte Hornets,CHA,109,25,42,19,23,0,0,0,0,42-91,19-48,12,30,42,20,5,5,14,26,Boston Celtics,BOS,124,40,31,21,32,0,0,0,0,41-86,13-42,11,30,41,21,12,5,10,13,Boston Celtics
+"November 01, 2024",Cleveland Cavaliers,CLE,120,34,29,32,25,0,0,0,0,44-87,15-38,7,42,49,25,6,4,12,21,Orlando Magic,ORL,109,16,28,34,31,0,0,0,0,41-90,11-33,7,32,39,26,10,4,14,17,Cleveland Cavaliers
+"November 01, 2024",Detroit Pistons,DET,98,13,33,28,24,0,0,0,0,41-81,11-34,6,32,38,23,6,9,22,12,New York Knicks,NYK,128,39,30,35,24,0,0,0,0,52-101,18-38,12,33,45,31,16,3,9,14,New York Knicks
+"November 01, 2024",Atlanta Hawks,ATL,115,26,33,31,25,0,0,0,0,41-92,19-50,8,32,40,30,8,4,13,22,Sacramento Kings,SAC,123,33,36,33,21,0,0,0,0,43-89,11-33,10,41,51,28,9,4,14,21,Sacramento Kings
+"November 01, 2024",Brooklyn Nets,BKN,120,37,31,24,28,0,0,0,0,49-94,11-36,9,37,46,34,11,6,10,20,Chicago Bulls,CHI,112,30,30,30,22,0,0,0,0,38-88,17-44,10,34,44,24,5,3,16,15,Brooklyn Nets
+"November 01, 2024",Toronto Raptors,TOR,125,19,32,37,37,0,0,0,0,52-107,10-35,15,29,44,35,4,6,11,29,Los Angeles Lakers,LAL,131,43,33,23,32,0,0,0,0,42-88,11-32,9,34,43,29,6,5,10,17,Los Angeles Lakers
+"November 01, 2024",New Orleans Pelicans,NOP,125,35,27,33,30,0,0,0,0,49-101,12-31,15,31,46,28,8,4,6,15,Indiana Pacers,IND,118,35,27,27,29,0,0,0,0,46-89,16-38,6,33,39,35,3,3,14,21,New Orleans Pelicans
+"November 01, 2024",Minnesota Timberwolves,MIN,119,33,31,27,28,0,0,0,0,43-83,18-42,8,30,38,34,8,9,16,22,Denver Nuggets,DEN,116,29,32,24,31,0,0,0,0,41-92,11-32,17,29,46,30,11,2,13,18,Minnesota Timberwolves
+"November 01, 2024",Portland Trail Blazers,POR,114,24,44,17,29,0,0,0,0,39-83,15-35,11,25,36,27,8,5,19,17,Oklahoma City Thunder,OKC,137,37,31,38,31,0,0,0,0,51-95,19-49,14,31,45,31,14,9,13,29,Oklahoma City Thunder
+"November 02, 2024",Charlotte Hornets,CHA,103,24,26,24,29,0,0,0,0,40-91,17-42,7,27,34,24,10,1,13,25,Boston Celtics,BOS,113,38,30,17,28,0,0,0,0,36-82,16-52,8,36,44,23,4,4,15,17,Boston Celtics
+"November 02, 2024",Philadelphia 76ers,PHI,107,28,24,23,32,0,0,0,0,36-89,19-46,8,25,33,22,11,5,14,19,Memphis Grizzlies,MEM,124,24,35,33,32,0,0,0,0,48-87,12-27,11,41,52,35,9,6,16,22,Memphis Grizzlies
+"November 02, 2024",Toronto Raptors,TOR,131,37,29,30,24,11,0,0,0,46-95,17-37,12,34,46,31,13,3,19,25,Sacramento Kings,SAC,128,29,34,23,34,8,0,0,0,46-100,10-40,15,34,49,21,16,3,18,22,Toronto Raptors
+"November 02, 2024",Houston Rockets,HOU,121,20,23,37,39,2,0,0,0,44-107,15-45,18,31,49,27,10,6,11,32,Golden State Warriors,GSW,127,38,33,25,23,8,0,0,0,40-78,15-32,9,38,47,26,5,4,14,22,Golden State Warriors
+"November 02, 2024",Milwaukee Bucks,MIL,113,38,24,22,29,0,0,0,0,43-89,18-39,10,35,45,24,3,3,13,23,Cleveland Cavaliers,CLE,114,30,31,26,27,0,0,0,0,44-91,15-38,10,35,45,31,3,2,7,20,Cleveland Cavaliers
+"November 02, 2024",San Antonio Spurs,SAS,113,32,30,33,18,0,0,0,0,43-83,13-42,7,37,44,32,6,5,11,16,Minnesota Timberwolves,MIN,103,32,25,25,21,0,0,0,0,39-82,11-37,6,26,32,21,7,2,12,16,San Antonio Spurs
+"November 02, 2024",Washington Wizards,WAS,98,21,27,22,28,0,0,0,0,38-91,7-35,8,36,44,23,12,10,11,22,Miami Heat,MIA,118,31,25,33,29,0,0,0,0,43-102,15-37,21,44,65,19,6,3,13,18,Miami Heat
+"November 02, 2024",Denver Nuggets,DEN,129,37,28,34,30,0,0,0,0,48-99,16-32,19,33,52,33,14,1,17,25,Utah Jazz,UTA,103,26,30,19,28,0,0,0,0,32-77,13-42,8,31,39,24,7,8,22,22,Denver Nuggets
+"November 02, 2024",Phoenix Suns,PHX,103,22,21,44,16,0,0,0,0,35-93,17-52,13,50,63,29,4,8,12,10,Portland Trail Blazers,POR,97,18,29,18,32,0,0,0,0,37-111,14-43,14,42,56,17,10,5,6,18,Phoenix Suns
+"November 02, 2024",Los Angeles Clippers,LAC,92,28,29,21,14,0,0,0,0,32-79,11-35,10,40,50,23,10,7,20,17,Oklahoma City Thunder,OKC,105,19,34,28,24,0,0,0,0,36-84,16-39,3,38,41,25,11,3,12,22,Oklahoma City Thunder
+"November 03, 2024",Brooklyn Nets,BKN,92,25,32,20,15,0,0,0,0,32-71,9-31,4,23,27,23,9,3,13,24,Detroit Pistons,DET,106,29,23,31,23,0,0,0,0,37-77,11-36,9,38,47,25,4,6,17,25,Detroit Pistons
+"November 03, 2024",New Orleans Pelicans,NOP,111,30,29,26,26,0,0,0,0,39-90,16-38,18,25,43,22,6,3,18,16,Atlanta Hawks,ATL,126,33,25,35,33,0,0,0,0,50-88,15-36,10,31,41,29,10,3,16,17,Atlanta Hawks
+"November 03, 2024",Dallas Mavericks,DAL,108,30,35,23,20,0,0,0,0,42-85,10-32,12,41,53,25,8,5,18,22,Orlando Magic,ORL,85,22,18,21,24,0,0,0,0,31-93,8-41,13,30,43,19,8,4,14,22,Dallas Mavericks
+"November 04, 2024",Cleveland Cavaliers,CLE,116,35,38,16,27,0,0,0,0,46-91,17-37,5,34,39,28,10,4,10,15,Milwaukee Bucks,MIL,114,31,29,31,23,0,0,0,0,42-86,17-35,7,42,49,21,6,6,14,15,Cleveland Cavaliers
+"November 04, 2024",Washington Wizards,WAS,112,20,25,36,31,0,0,0,0,42-96,10-43,8,39,47,29,4,8,9,23,Golden State Warriors,GSW,125,29,25,39,32,0,0,0,0,44-97,12-37,16,40,56,29,5,7,6,20,Golden State Warriors
+"November 04, 2024",Detroit Pistons,DET,115,33,34,16,32,0,0,0,0,45-96,8-34,17,38,55,22,6,5,12,25,Los Angeles Lakers,LAL,103,22,31,24,26,0,0,0,0,37-85,9-25,7,30,37,28,8,1,13,16,Detroit Pistons
+"November 04, 2024",Atlanta Hawks,ATL,93,30,23,22,18,0,0,0,0,37-89,6-31,8,35,43,23,9,3,19,13,Boston Celtics,BOS,123,35,40,28,20,0,0,0,0,48-99,18-55,11,39,50,27,15,7,12,14,Boston Celtics
+"November 04, 2024",Brooklyn Nets,BKN,106,23,27,33,23,0,0,0,0,40-84,13-36,12,25,37,28,7,1,13,22,Memphis Grizzlies,MEM,104,30,19,30,25,0,0,0,0,43-91,8-30,13,31,44,29,5,8,14,16,Brooklyn Nets
+"November 04, 2024",Miami Heat,MIA,110,25,36,17,32,0,0,0,0,37-85,15-36,8,28,36,24,9,6,10,15,Sacramento Kings,SAC,111,22,26,37,26,0,0,0,0,44-86,10-27,11,28,39,23,5,4,12,28,Sacramento Kings
+"November 04, 2024",Chicago Bulls,CHI,126,27,26,40,33,0,0,0,0,45-95,14-37,10,26,36,36,7,7,9,23,Utah Jazz,UTA,135,30,32,33,40,0,0,0,0,48-89,16-36,12,37,49,35,3,6,12,18,Utah Jazz
+"November 04, 2024",Houston Rockets,HOU,109,31,30,20,28,0,0,0,0,43-88,8-33,11,39,50,21,4,6,10,20,New York Knicks,NYK,97,26,30,19,22,0,0,0,0,34-88,11-28,13,26,39,20,6,4,10,18,Houston Rockets
+"November 04, 2024",Minnesota Timberwolves,MIN,114,24,33,34,23,0,0,0,0,39-79,18-38,9,36,45,23,7,8,15,19,Charlotte Hornets,CHA,93,24,21,26,22,0,0,0,0,35-88,10-42,9,29,38,19,10,1,14,22,Minnesota Timberwolves
+"November 04, 2024",Oklahoma City Thunder,OKC,102,39,19,26,18,0,0,0,0,39-85,12-31,5,37,42,23,12,4,15,21,Orlando Magic,ORL,86,26,17,15,28,0,0,0,0,29-82,5-34,7,34,41,20,12,5,18,16,Oklahoma City Thunder
+"November 04, 2024",New Orleans Pelicans,NOP,100,30,25,27,18,0,0,0,0,38-84,10-35,10,24,34,24,5,3,12,20,Portland Trail Blazers,POR,118,21,27,31,39,0,0,0,0,46-84,10-29,11,27,38,21,10,5,11,15,Portland Trail Blazers
+"November 04, 2024",Dallas Mavericks,DAL,127,29,30,36,32,0,0,0,0,46-89,15-36,5,33,38,29,4,3,8,18,Indiana Pacers,IND,134,36,27,33,38,0,0,0,0,54-95,13-32,7,39,46,30,5,3,9,16,Indiana Pacers
+"November 04, 2024",Denver Nuggets,DEN,121,34,25,29,33,0,0,0,0,41-83,10-31,14,30,44,29,9,10,17,21,Toronto Raptors,TOR,119,37,27,29,26,0,0,0,0,47-103,13-39,14,27,41,38,12,3,13,27,Denver Nuggets
+"November 04, 2024",Phoenix Suns,PHX,118,28,37,29,24,0,0,0,0,42-82,11-32,9,34,43,24,6,4,14,16,Philadelphia 76ers,PHI,116,26,37,30,23,0,0,0,0,40-87,20-51,9,29,38,27,10,4,14,22,Phoenix Suns
+"November 04, 2024",Los Angeles Clippers,LAC,113,14,34,34,31,0,0,0,0,41-90,19-37,16,28,44,25,6,7,10,21,San Antonio Spurs,SAS,104,40,16,30,18,0,0,0,0,38-86,11-41,12,33,45,22,9,10,10,16,Los Angeles Clippers
+"November 06, 2024",Charlotte Hornets,CHA,108,23,23,31,31,0,0,0,0,39-90,14-44,8,39,47,22,5,4,12,16,Detroit Pistons,DET,107,24,21,31,31,0,0,0,0,46-94,10-32,6,40,46,34,5,4,10,20,Charlotte Hornets
+"November 06, 2024",Indiana Pacers,IND,118,38,23,26,31,0,0,0,0,41-76,12-26,4,32,36,21,7,3,11,24,Orlando Magic,ORL,111,26,31,28,26,0,0,0,0,42-82,7-25,10,28,38,26,6,5,16,22,Indiana Pacers
+"November 06, 2024",Atlanta Hawks,ATL,121,26,39,24,32,0,0,0,0,45-100,15-38,16,32,48,31,12,4,8,14,New York Knicks,NYK,116,22,39,28,27,0,0,0,0,41-84,22-47,7,34,41,29,5,5,15,18,Atlanta Hawks
+"November 06, 2024",Boston Celtics,BOS,112,24,16,41,31,0,0,0,0,38-90,19-54,13,34,47,22,5,3,12,18,Golden State Warriors,GSW,118,19,32,31,36,0,0,0,0,42-91,14-34,15,38,53,22,6,5,11,19,Golden State Warriors
+"November 06, 2024",Houston Rockets,HOU,127,31,32,31,33,0,0,0,0,54-96,10-27,11,34,45,28,10,5,11,13,San Antonio Spurs,SAS,100,19,19,33,29,0,0,0,0,37-83,14-36,8,33,41,20,6,6,19,13,Houston Rockets
+"November 06, 2024",Memphis Grizzlies,MEM,131,35,24,36,36,0,0,0,0,48-93,17-34,12,38,50,28,5,6,18,17,Los Angeles Lakers,LAL,114,27,26,28,33,0,0,0,0,41-93,15-48,9,28,37,23,10,1,11,18,Memphis Grizzlies
+"November 06, 2024",New Orleans Pelicans,NOP,122,34,25,29,34,0,0,0,0,42-88,13-27,8,25,33,21,8,8,9,14,Cleveland Cavaliers,CLE,131,29,30,40,32,0,0,0,0,52-96,17-35,12,34,46,33,6,10,11,21,Cleveland Cavaliers
+"November 06, 2024",Dallas Mavericks,DAL,119,32,24,32,31,0,0,0,0,45-93,12-38,9,38,47,33,11,4,15,19,Chicago Bulls,CHI,99,24,21,23,31,0,0,0,0,36-86,12-42,14,37,51,25,8,2,22,17,Dallas Mavericks
+"November 06, 2024",Denver Nuggets,DEN,124,30,25,40,29,0,0,0,0,42-89,16-38,13,42,55,34,8,6,18,22,Oklahoma City Thunder,OKC,122,32,34,29,27,0,0,0,0,44-100,16-40,13,34,47,29,15,6,14,28,Denver Nuggets
+"November 06, 2024",Phoenix Suns,PHX,115,26,29,29,31,0,0,0,0,42-84,18-43,10,36,46,29,5,6,16,14,Miami Heat,MIA,112,25,33,29,25,0,0,0,0,40-92,13-34,13,30,43,27,12,3,10,16,Phoenix Suns
+"November 06, 2024",Los Angeles Clippers,LAC,110,24,27,33,26,0,0,0,0,41-72,12-28,8,21,29,27,12,1,17,16,Philadelphia 76ers,PHI,98,27,24,17,30,0,0,0,0,40-73,7-25,10,22,32,19,10,2,20,22,Los Angeles Clippers
+"November 06, 2024",Sacramento Kings,SAC,122,30,27,32,33,0,0,0,0,42-90,10-35,15,32,47,26,7,5,9,13,Toronto Raptors,TOR,107,33,21,39,14,0,0,0,0,43-88,10-34,8,26,34,25,7,1,11,23,Sacramento Kings
+"November 07, 2024",Chicago Bulls,CHI,119,34,31,30,24,0,0,0,0,47-88,15-36,10,22,32,30,9,4,13,20,Minnesota Timberwolves,MIN,135,28,28,34,45,0,0,0,0,51-93,16-38,10,30,40,29,7,4,13,17,Minnesota Timberwolves
+"November 07, 2024",Milwaukee Bucks,MIL,123,31,26,31,35,0,0,0,0,43-84,15-35,11,30,41,20,13,3,10,21,Utah Jazz,UTA,100,29,32,16,23,0,0,0,0,33-77,17-41,8,31,39,24,5,5,21,19,Milwaukee Bucks
+"November 07, 2024",San Antonio Spurs,SAS,118,33,23,35,27,0,0,0,0,44-82,16-39,12,33,45,35,9,4,15,15,Portland Trail Blazers,POR,105,27,28,24,26,0,0,0,0,41-86,9-32,14,27,41,23,7,3,14,14,San Antonio Spurs
+"November 08, 2024",Charlotte Hornets,CHA,103,29,15,30,29,0,0,0,0,38-90,17-50,13,43,56,23,6,7,14,16,Indiana Pacers,IND,83,26,18,22,17,0,0,0,0,33-83,9-29,7,30,37,24,10,4,12,16,Charlotte Hornets
+"November 08, 2024",Detroit Pistons,DET,122,40,26,29,27,0,0,0,0,44-86,13-33,11,34,45,27,7,8,20,18,Atlanta Hawks,ATL,121,23,30,32,36,0,0,0,0,44-97,15-36,15,29,44,30,12,7,17,21,Detroit Pistons
+"November 08, 2024",Orlando Magic,ORL,115,37,20,28,30,0,0,0,0,45-86,8-32,11,32,43,28,9,8,13,14,New Orleans Pelicans,NOP,88,23,24,25,16,0,0,0,0,32-84,10-31,6,25,31,18,10,1,15,19,Orlando Magic
+"November 08, 2024",Boston Celtics,BOS,108,24,25,27,18,14,0,0,0,39-90,14-53,4,35,39,23,7,9,13,15,Brooklyn Nets,BKN,104,28,23,27,16,10,0,0,0,41-100,10-38,12,39,51,24,6,3,12,22,Boston Celtics
+"November 08, 2024",Cleveland Cavaliers,CLE,136,39,44,29,24,0,0,0,0,46-85,20-42,9,34,43,33,7,7,19,12,Golden State Warriors,GSW,117,22,20,41,34,0,0,0,0,47-98,13-42,11,29,40,32,14,4,17,24,Cleveland Cavaliers
+"November 08, 2024",New York Knicks,NYK,116,32,34,25,25,0,0,0,0,43-91,14-46,14,34,48,35,7,3,7,20,Milwaukee Bucks,MIL,94,25,22,25,22,0,0,0,0,36-83,7-30,11,30,41,20,1,5,12,16,New York Knicks
+"November 08, 2024",Dallas Mavericks,DAL,113,26,24,33,30,0,0,0,0,41-80,11-33,8,31,39,18,5,1,11,22,Phoenix Suns,PHX,114,36,27,24,27,0,0,0,0,43-86,15-39,11,26,37,26,6,2,8,18,Phoenix Suns
+"November 08, 2024",Memphis Grizzlies,MEM,128,34,32,32,30,0,0,0,0,46-97,14-43,13,37,50,30,10,10,17,19,Washington Wizards,WAS,104,24,25,22,33,0,0,0,0,38-93,9-35,11,30,41,27,14,8,18,27,Memphis Grizzlies
+"November 08, 2024",Oklahoma City Thunder,OKC,126,31,44,23,28,0,0,0,0,46-90,14-37,7,34,41,24,9,8,10,23,Houston Rockets,HOU,107,31,20,25,31,0,0,0,0,39-90,11-30,14,34,48,19,7,3,17,18,Oklahoma City Thunder
+"November 08, 2024",Minnesota Timberwolves,MIN,127,35,29,34,29,0,0,0,0,47-97,22-50,10,39,49,32,9,7,17,21,Portland Trail Blazers,POR,102,17,34,24,27,0,0,0,0,39-91,6-25,12,25,37,13,11,7,16,17,Minnesota Timberwolves
+"November 08, 2024",Denver Nuggets,DEN,135,40,31,33,31,0,0,0,0,50-81,18-35,6,33,39,37,5,5,17,13,Miami Heat,MIA,122,27,33,30,32,0,0,0,0,46-94,20-43,9,24,33,33,11,1,11,19,Denver Nuggets
+"November 08, 2024",Los Angeles Lakers,LAL,116,36,32,28,20,0,0,0,0,44-85,16-35,5,40,45,28,1,13,11,17,Philadelphia 76ers,PHI,106,29,31,21,25,0,0,0,0,39-96,13-39,13,31,44,28,6,4,5,14,Los Angeles Lakers
+"November 08, 2024",Sacramento Kings,SAC,98,28,17,28,25,0,0,0,0,37-78,3-26,5,30,35,19,6,3,13,19,Los Angeles Clippers,LAC,107,34,17,27,29,0,0,0,0,36-81,14-30,12,36,48,20,7,2,18,21,Los Angeles Clippers
+"November 09, 2024",San Antonio Spurs,SAS,110,22,23,37,28,0,0,0,0,38-85,17-47,6,31,37,29,8,10,20,26,Utah Jazz,UTA,111,25,28,29,29,0,0,0,0,38-82,10-33,9,36,45,23,13,4,17,20,Utah Jazz
+"November 09, 2024",Atlanta Hawks,ATL,113,37,33,28,15,0,0,0,0,41-89,9-29,10,29,39,31,8,5,13,19,Chicago Bulls,CHI,125,24,36,30,35,0,0,0,0,46-92,13-39,13,34,47,30,12,6,17,18,Chicago Bulls
+"November 09, 2024",Cleveland Cavaliers,CLE,105,34,23,13,35,0,0,0,0,40-74,10-28,4,29,33,24,12,5,14,18,Brooklyn Nets,BKN,100,28,27,27,18,0,0,0,0,34-76,15-43,10,26,36,21,4,2,17,14,Cleveland Cavaliers
+"November 09, 2024",Los Angeles Clippers,LAC,105,28,24,29,24,0,0,0,0,35-76,10-26,7,40,47,18,6,8,12,20,Toronto Raptors,TOR,103,22,25,23,33,0,0,0,0,40-95,11-37,12,32,44,26,8,5,10,23,Los Angeles Clippers
+"November 10, 2024",Detroit Pistons,DET,99,17,28,19,35,0,0,0,0,36-84,11-34,11,35,46,21,6,6,18,21,Houston Rockets,HOU,101,20,23,29,29,0,0,0,0,38-93,7-34,17,36,53,19,10,5,11,21,Houston Rockets
+"November 10, 2024",Milwaukee Bucks,MIL,107,40,29,15,23,0,0,0,0,39-81,13-32,5,36,41,21,9,8,12,18,Boston Celtics,BOS,113,30,28,29,26,0,0,0,0,35-86,19-50,8,34,42,27,5,2,12,16,Boston Celtics
+"November 10, 2024",Indiana Pacers,IND,132,29,29,34,40,0,0,0,0,45-88,21-46,5,27,32,27,6,4,6,22,New York Knicks,NYK,121,26,35,33,27,0,0,0,0,46-83,7-25,8,31,39,23,5,3,13,20,Indiana Pacers
+"November 10, 2024",Orlando Magic,ORL,121,26,35,30,30,0,0,0,0,41-91,17-48,15,29,44,25,6,5,11,21,Washington Wizards,WAS,94,22,34,16,22,0,0,0,0,33-72,10-33,7,30,37,20,4,7,16,25,Orlando Magic
+"November 10, 2024",Philadelphia 76ers,PHI,107,16,30,30,21,10,0,0,0,39-84,9-33,8,32,40,24,8,1,17,23,Charlotte Hornets,CHA,105,15,30,21,31,8,0,0,0,36-95,14-54,12,38,50,22,10,5,19,22,Philadelphia 76ers
+"November 10, 2024",Minnesota Timberwolves,MIN,94,20,31,20,23,0,0,0,0,35-88,13-45,16,31,47,22,13,5,19,20,Miami Heat,MIA,95,27,25,16,27,0,0,0,0,34-77,11-31,6,37,43,18,14,9,22,20,Miami Heat
+"November 10, 2024",Oklahoma City Thunder,OKC,116,33,25,21,37,0,0,0,0,42-94,11-33,14,27,41,25,4,6,11,18,Golden State Warriors,GSW,127,26,39,42,20,0,0,0,0,45-89,21-43,13,33,46,35,8,3,14,26,Golden State Warriors
+"November 10, 2024",Denver Nuggets,DEN,122,35,25,37,25,0,0,0,0,45-89,14-29,13,32,45,35,6,5,10,16,Dallas Mavericks,DAL,120,29,34,31,26,0,0,0,0,48-90,10-33,10,32,42,29,7,5,10,17,Denver Nuggets
+"November 10, 2024",Phoenix Suns,PHX,118,31,22,29,29,7,0,0,0,44-105,18-57,8,40,48,30,11,3,11,19,Sacramento Kings,SAC,127,36,24,19,32,16,0,0,0,50-102,11-37,8,49,57,23,7,3,14,20,Sacramento Kings
+"November 10, 2024",Portland Trail Blazers,POR,89,17,27,24,21,0,0,0,0,34-100,4-42,16,27,43,18,9,3,23,21,Memphis Grizzlies,MEM,134,31,33,42,28,0,0,0,0,47-85,16-43,10,41,51,32,15,13,20,17,Memphis Grizzlies
+"November 10, 2024",Los Angeles Lakers,LAL,123,26,27,35,35,0,0,0,0,44-86,12-37,10,23,33,30,9,4,5,15,Toronto Raptors,TOR,103,34,21,27,21,0,0,0,0,37-82,10-29,12,28,40,26,2,2,16,23,Los Angeles Lakers
+"November 11, 2024",Chicago Bulls,CHI,113,35,31,26,21,0,0,0,0,43-87,14-38,8,43,51,26,7,5,20,17,Cleveland Cavaliers,CLE,119,34,33,28,24,0,0,0,0,43-97,15-45,12,31,43,26,14,3,8,13,Cleveland Cavaliers
+"November 11, 2024",Houston Rockets,HOU,107,30,27,25,25,0,0,0,0,40-87,5-23,17,41,58,13,12,10,19,17,Washington Wizards,WAS,92,28,21,20,23,0,0,0,0,36-88,11-31,8,26,34,21,14,5,18,17,Houston Rockets
+"November 11, 2024",New Orleans Pelicans,NOP,105,22,34,29,20,0,0,0,0,42-94,10-30,14,31,45,31,13,4,10,15,Brooklyn Nets,BKN,107,26,28,27,26,0,0,0,0,36-84,19-42,14,32,46,24,4,5,16,14,Brooklyn Nets
+"November 11, 2024",Oklahoma City Thunder,OKC,134,25,41,33,35,0,0,0,0,47-91,18-46,9,20,29,31,16,5,11,23,Los Angeles Clippers,LAC,128,24,29,41,34,0,0,0,0,44-80,20-37,15,32,47,31,5,5,23,22,Oklahoma City Thunder
+"November 11, 2024",San Antonio Spurs,SAS,116,22,38,24,32,0,0,0,0,43-85,22-46,8,36,44,31,5,5,16,10,Sacramento Kings,SAC,96,26,29,16,25,0,0,0,0,39-91,10-38,9,28,37,18,11,4,11,14,San Antonio Spurs
+"November 12, 2024",Boston Celtics,BOS,116,31,34,26,25,0,0,0,0,38-75,18-45,6,28,34,28,7,5,20,12,Atlanta Hawks,ATL,117,29,25,30,33,0,0,0,0,50-99,10-32,19,25,44,35,16,2,16,17,Atlanta Hawks
+"November 12, 2024",Detroit Pistons,DET,123,32,25,34,20,12,0,0,0,43-92,13-36,15,41,56,32,4,4,19,19,Miami Heat,MIA,121,21,30,31,29,10,0,0,0,47-101,17-45,12,31,43,25,14,3,10,22,Detroit Pistons
+"November 12, 2024",Orlando Magic,ORL,114,31,27,31,25,0,0,0,0,43-93,13-44,8,35,43,25,12,7,11,21,Charlotte Hornets,CHA,89,29,18,19,23,0,0,0,0,34-84,13-38,8,40,48,22,7,3,22,18,Orlando Magic
+"November 12, 2024",Philadelphia 76ers,PHI,99,25,25,25,24,0,0,0,0,31-83,14-42,9,31,40,19,10,6,13,20,New York Knicks,NYK,111,27,27,24,33,0,0,0,0,44-89,9-31,8,39,47,31,8,5,15,15,New York Knicks
+"November 12, 2024",Milwaukee Bucks,MIL,99,26,28,27,18,0,0,0,0,38-94,16-56,12,35,47,25,16,9,16,18,Toronto Raptors,TOR,85,21,22,24,18,0,0,0,0,30-86,9-25,17,37,54,20,11,6,21,11,Milwaukee Bucks
+"November 12, 2024",Utah Jazz,UTA,112,21,28,30,33,0,0,0,0,45-92,15-38,12,27,39,32,7,3,10,17,Phoenix Suns,PHX,120,33,31,23,33,0,0,0,0,43-86,18-39,10,32,42,21,6,11,8,11,Phoenix Suns
+"November 12, 2024",Golden State Warriors,GSW,120,33,26,37,24,0,0,0,0,45-94,14-41,18,32,50,29,13,7,12,18,Dallas Mavericks,DAL,117,27,36,26,28,0,0,0,0,44-84,11-34,8,32,40,26,6,1,17,23,Golden State Warriors
+"November 12, 2024",Portland Trail Blazers,POR,122,28,32,33,29,0,0,0,0,43-84,18-32,11,28,39,30,14,7,19,23,Minnesota Timberwolves,MIN,108,17,36,21,34,0,0,0,0,37-73,13-35,4,28,32,22,13,4,21,22,Portland Trail Blazers
+"November 13, 2024",Orlando Magic,ORL,94,18,23,27,26,0,0,0,0,34-84,13-38,13,37,50,26,8,10,17,19,Indiana Pacers,IND,90,27,18,27,18,0,0,0,0,32-84,10-30,7,34,41,22,10,6,16,19,Orlando Magic
+"November 13, 2024",Brooklyn Nets,BKN,114,34,26,29,25,0,0,0,0,40-79,19-43,3,31,34,26,4,3,12,20,Boston Celtics,BOS,139,32,33,38,36,0,0,0,0,50-93,22-46,12,33,45,35,7,6,7,17,Boston Celtics
+"November 13, 2024",New York Knicks,NYK,123,22,25,38,38,0,0,0,0,48-94,15-37,10,30,40,31,7,3,15,17,Chicago Bulls,CHI,124,29,30,31,34,0,0,0,0,44-82,14-36,7,33,40,31,10,6,18,17,Chicago Bulls
+"November 13, 2024",Philadelphia 76ers,PHI,106,27,27,24,28,0,0,0,0,41-92,14-43,12,33,45,24,8,2,11,13,Cleveland Cavaliers,CLE,114,31,17,34,32,0,0,0,0,42-85,16-40,9,37,46,25,8,1,11,14,Cleveland Cavaliers
+"November 13, 2024",Oklahoma City Thunder,OKC,106,33,21,28,24,0,0,0,0,39-88,15-39,5,26,31,20,16,7,5,17,New Orleans Pelicans,NOP,88,28,22,18,20,0,0,0,0,34-86,9-37,21,37,58,21,3,4,23,15,Oklahoma City Thunder
+"November 13, 2024",Houston Rockets,HOU,111,28,33,28,22,0,0,0,0,42-97,15-40,18,41,59,28,8,11,13,17,Los Angeles Clippers,LAC,103,28,28,23,24,0,0,0,0,38-96,14-38,10,32,42,27,10,3,9,16,Houston Rockets
+"November 13, 2024",Milwaukee Bucks,MIL,127,24,23,38,26,16,0,0,0,45-95,15-35,9,38,47,26,10,9,11,12,Detroit Pistons,DET,120,27,33,24,27,9,0,0,0,46-100,18-38,11,34,45,29,6,7,14,21,Milwaukee Bucks
+"November 13, 2024",San Antonio Spurs,SAS,139,32,35,41,31,0,0,0,0,48-92,18-44,8,31,39,38,7,7,9,15,Washington Wizards,WAS,130,31,36,24,39,0,0,0,0,49-95,18-44,11,30,41,27,5,5,18,23,San Antonio Spurs
+"November 13, 2024",Los Angeles Lakers,LAL,128,38,27,26,37,0,0,0,0,43-85,20-41,7,35,42,31,7,5,18,22,Memphis Grizzlies,MEM,123,26,38,32,27,0,0,0,0,42-89,12-33,12,29,41,28,11,6,13,25,Los Angeles Lakers
+"November 13, 2024",Portland Trail Blazers,POR,106,23,25,28,30,0,0,0,0,38-83,9-25,11,36,47,17,10,10,19,18,Minnesota Timberwolves,MIN,98,33,15,28,22,0,0,0,0,37-94,7-39,13,28,41,16,12,3,13,19,Portland Trail Blazers
+"November 13, 2024",Sacramento Kings,SAC,127,35,26,32,34,0,0,0,0,50-78,15-28,6,39,45,38,7,8,17,20,Phoenix Suns,PHX,104,29,27,24,24,0,0,0,0,36-97,13-43,19,21,40,23,12,2,10,12,Sacramento Kings
+"November 14, 2024",Utah Jazz,UTA,115,27,34,38,16,0,0,0,0,43-85,13-34,16,24,40,25,11,2,18,20,Dallas Mavericks,DAL,113,28,36,21,28,0,0,0,0,43-85,12-39,11,19,30,25,11,10,17,18,Utah Jazz
+"November 15, 2024",Indiana Pacers,IND,111,29,26,30,26,0,0,0,0,44-86,14-35,8,31,39,28,8,4,20,15,Miami Heat,MIA,124,26,35,37,26,0,0,0,0,45-87,15-42,4,32,36,27,16,1,10,12,Miami Heat
+"November 15, 2024",Orlando Magic,ORL,98,24,19,30,25,0,0,0,0,34-78,11-37,11,32,43,15,11,6,17,21,Philadelphia 76ers,PHI,86,21,24,27,14,0,0,0,0,29-72,10-31,6,28,34,19,10,3,16,23,Orlando Magic
+"November 15, 2024",Toronto Raptors,TOR,95,27,25,26,17,0,0,0,0,35-97,8-31,17,36,53,21,7,6,14,13,Detroit Pistons,DET,99,32,23,18,26,0,0,0,0,39-95,8-38,14,42,56,24,8,8,13,16,Detroit Pistons
+"November 15, 2024",Atlanta Hawks,ATL,129,29,30,35,35,0,0,0,0,46-98,12-37,15,40,55,28,10,10,16,17,Washington Wizards,WAS,117,39,11,25,42,0,0,0,0,43-106,15-43,13,39,52,28,11,5,15,23,Atlanta Hawks
+"November 15, 2024",Cleveland Cavaliers,CLE,144,49,28,30,37,0,0,0,0,51-93,21-43,4,36,40,33,11,6,13,16,Chicago Bulls,CHI,126,34,39,29,24,0,0,0,0,45-88,20-42,3,33,36,32,7,4,17,20,Cleveland Cavaliers
+"November 15, 2024",New York Knicks,NYK,124,37,31,32,24,0,0,0,0,44-83,13-38,8,37,45,25,7,6,13,21,Brooklyn Nets,BKN,122,32,27,23,40,0,0,0,0,39-89,19-46,10,27,37,27,8,2,9,22,New York Knicks
+"November 15, 2024",San Antonio Spurs,SAS,115,30,30,26,29,0,0,0,0,43-88,17-45,11,29,40,32,6,5,13,19,Los Angeles Lakers,LAL,120,31,37,25,27,0,0,0,0,44-88,14-31,10,31,41,27,10,3,10,11,Los Angeles Lakers
+"November 15, 2024",Houston Rockets,HOU,125,29,37,28,31,0,0,0,0,46-95,19-44,9,39,48,31,11,3,12,25,Los Angeles Clippers,LAC,104,21,25,29,29,0,0,0,0,34-90,10-40,13,38,51,12,6,6,14,15,Houston Rockets
+"November 15, 2024",New Orleans Pelicans,NOP,101,32,27,19,23,0,0,0,0,37-87,11-35,17,39,56,21,4,5,14,13,Denver Nuggets,DEN,94,22,32,18,22,0,0,0,0,37-87,10-37,5,33,38,26,10,1,7,16,New Orleans Pelicans
+"November 15, 2024",Oklahoma City Thunder,OKC,99,29,19,35,16,0,0,0,0,36-91,10-40,13,40,53,21,6,11,10,26,Phoenix Suns,PHX,83,14,22,24,23,0,0,0,0,22-75,9-37,11,39,50,17,6,4,14,20,Oklahoma City Thunder
+"November 15, 2024",Golden State Warriors,GSW,123,29,26,38,30,0,0,0,0,43-98,19-46,14,42,56,33,9,6,19,28,Memphis Grizzlies,MEM,118,28,20,30,40,0,0,0,0,42-103,7-42,18,36,54,22,8,11,15,21,Golden State Warriors
+"November 15, 2024",Sacramento Kings,SAC,126,27,27,28,33,11,0,0,0,48-96,12-37,11,40,51,21,6,7,13,17,Minnesota Timberwolves,MIN,130,32,30,36,17,15,0,0,0,48-101,20-49,10,31,41,26,9,4,11,19,Minnesota Timberwolves
+"November 16, 2024",Charlotte Hornets,CHA,115,33,26,27,29,0,0,0,0,41-93,15-42,16,37,53,25,7,4,10,16,Milwaukee Bucks,MIL,114,39,24,27,24,0,0,0,0,47-92,15-36,8,32,40,31,6,6,9,18,Charlotte Hornets
+"November 16, 2024",Boston Celtics,BOS,126,28,28,30,28,12,0,0,0,44-99,21-61,14,28,42,30,2,6,9,20,Toronto Raptors,TOR,123,26,28,31,29,9,0,0,0,50-98,9-23,15,31,46,35,3,2,9,19,Boston Celtics
+"November 16, 2024",New Orleans Pelicans,NOP,99,30,26,15,28,0,0,0,0,35-83,11-29,18,32,50,24,7,4,17,19,Los Angeles Lakers,LAL,104,21,25,29,29,0,0,0,0,39-89,12-40,17,26,43,24,10,3,11,14,Los Angeles Lakers
+"November 16, 2024",Dallas Mavericks,DAL,110,23,32,38,17,0,0,0,0,44-94,8-31,13,40,53,26,9,7,14,18,San Antonio Spurs,SAS,93,28,23,18,24,0,0,0,0,28-88,11-40,13,32,45,21,10,9,11,17,Dallas Mavericks
+"November 16, 2024",Sacramento Kings,SAC,121,35,29,26,31,0,0,0,0,42-83,19-41,9,26,35,24,6,3,14,29,Utah Jazz,UTA,117,31,32,31,23,0,0,0,0,37-75,12-26,11,22,33,16,11,3,13,20,Sacramento Kings
+"November 17, 2024",Minnesota Timberwolves,MIN,120,22,32,32,34,0,0,0,0,42-80,17-39,9,23,32,27,8,6,14,13,Phoenix Suns,PHX,117,31,33,26,27,0,0,0,0,46-85,14-31,12,29,41,29,9,2,19,26,Minnesota Timberwolves
+"November 17, 2024",Indiana Pacers,IND,119,28,24,33,34,0,0,0,0,44-85,13-29,10,35,45,30,6,6,10,16,Miami Heat,MIA,110,20,29,26,35,0,0,0,0,36-90,19-43,15,23,38,21,4,1,10,13,Indiana Pacers
+"November 17, 2024",Cleveland Cavaliers,CLE,128,38,34,30,26,0,0,0,0,44-77,13-30,9,39,48,26,3,4,20,15,Charlotte Hornets,CHA,114,28,31,40,15,0,0,0,0,42-103,20-52,17,23,40,34,12,6,9,23,Cleveland Cavaliers
+"November 17, 2024",Washington Wizards,WAS,104,18,35,26,25,0,0,0,0,39-83,12-27,5,34,39,21,6,3,17,16,Detroit Pistons,DET,124,28,37,37,22,0,0,0,0,46-97,17-38,13,38,51,27,11,4,8,19,Detroit Pistons
+"November 17, 2024",Memphis Grizzlies,MEM,105,28,27,29,21,0,0,0,0,41-91,13-39,10,35,45,31,10,10,12,15,Denver Nuggets,DEN,90,25,18,21,26,0,0,0,0,35-84,10-31,6,33,39,23,9,5,14,12,Memphis Grizzlies
+"November 17, 2024",Portland Trail Blazers,POR,114,21,35,38,20,0,0,0,0,44-95,14-38,18,22,40,31,16,10,20,21,Atlanta Hawks,ATL,110,33,31,17,29,0,0,0,0,39-85,11-32,16,31,47,30,10,7,25,19,Portland Trail Blazers
+"November 17, 2024",New York Knicks,NYK,114,30,30,35,19,0,0,0,0,43-88,13-40,10,37,47,33,4,5,6,23,Brooklyn Nets,BKN,104,29,28,24,23,0,0,0,0,32-76,17-41,7,28,35,31,1,3,9,19,New York Knicks
+"November 17, 2024",Chicago Bulls,CHI,107,26,26,26,29,0,0,0,0,36-107,14-56,13,34,47,26,8,7,13,21,Houston Rockets,HOU,143,27,41,40,35,0,0,0,0,55-105,10-34,14,52,66,34,8,9,10,18,Houston Rockets
+"November 17, 2024",Oklahoma City Thunder,OKC,119,34,24,34,27,0,0,0,0,43-87,14-42,7,22,29,29,11,5,6,25,Dallas Mavericks,DAL,121,39,27,31,24,0,0,0,0,40-84,11-27,18,35,53,18,4,5,16,20,Dallas Mavericks
+"November 17, 2024",Los Angeles Clippers,LAC,116,35,31,30,20,0,0,0,0,46-94,11-40,14,27,41,30,11,5,9,11,Utah Jazz,UTA,105,25,20,29,31,0,0,0,0,39-79,12-40,9,32,41,24,7,1,18,14,Los Angeles Clippers
+"November 18, 2024",Detroit Pistons,DET,112,25,32,28,27,0,0,0,0,42-98,15-44,16,32,48,27,3,3,9,19,Chicago Bulls,CHI,122,36,29,28,29,0,0,0,0,44-91,23-46,10,36,46,28,3,5,10,16,Chicago Bulls
+"November 18, 2024",Miami Heat,MIA,106,25,28,35,18,0,0,0,0,36-87,13-44,9,44,53,26,10,2,13,13,Philadelphia 76ers,PHI,89,33,23,16,17,0,0,0,0,35-84,10-41,2,40,42,25,10,3,14,17,Miami Heat
+"November 18, 2024",New York Knicks,NYK,134,40,33,36,25,0,0,0,0,51-91,20-40,7,34,41,37,4,1,8,12,Washington Wizards,WAS,106,27,27,21,31,0,0,0,0,43-91,11-33,12,29,41,23,5,3,10,19,New York Knicks
+"November 18, 2024",Toronto Raptors,TOR,130,34,35,27,34,0,0,0,0,48-82,14-29,10,36,46,27,5,9,23,26,Indiana Pacers,IND,119,27,30,25,37,0,0,0,0,44-99,15-40,12,20,32,29,17,5,10,19,Toronto Raptors
+"November 18, 2024",Milwaukee Bucks,MIL,101,27,30,26,18,0,0,0,0,38-83,13-33,4,39,43,21,8,8,15,18,Houston Rockets,HOU,100,28,17,35,20,0,0,0,0,40-100,9-32,16,37,53,19,9,6,12,15,Milwaukee Bucks
+"November 18, 2024",Phoenix Suns,PHX,99,22,26,20,31,0,0,0,0,35-83,12-41,16,29,45,25,5,2,13,21,Orlando Magic,ORL,109,26,38,20,25,0,0,0,0,39-76,11-29,8,30,38,28,5,7,10,19,Orlando Magic
+"November 18, 2024",Sacramento Kings,SAC,108,31,35,27,15,0,0,0,0,37-85,20-46,9,36,45,24,9,4,17,20,Atlanta Hawks,ATL,109,32,32,25,20,0,0,0,0,39-83,16-38,6,31,37,34,7,7,14,19,Atlanta Hawks
+"November 18, 2024",Los Angeles Clippers,LAC,102,27,29,19,27,0,0,0,0,35-82,16-34,5,39,44,29,10,6,17,13,Golden State Warriors,GSW,99,22,23,27,27,0,0,0,0,37-84,16-44,9,36,45,27,12,4,19,14,Los Angeles Clippers
+"November 19, 2024",Boston Celtics,BOS,120,26,39,28,27,0,0,0,0,44-86,22-41,9,33,42,32,4,4,13,19,Cleveland Cavaliers,CLE,117,20,28,40,29,0,0,0,0,46-93,10-29,12,29,41,30,4,3,7,15,Boston Celtics
+"November 19, 2024",Brooklyn Nets,BKN,116,23,31,31,31,0,0,0,0,42-85,18-41,10,26,36,31,8,8,13,19,Charlotte Hornets,CHA,115,37,22,28,28,0,0,0,0,38-82,20-37,13,31,44,25,6,8,21,20,Brooklyn Nets
+"November 19, 2024",Memphis Grizzlies,MEM,110,24,33,21,32,0,0,0,0,41-103,9-38,19,36,55,24,9,10,22,24,Denver Nuggets,DEN,122,31,37,24,30,0,0,0,0,48-100,12-36,13,40,53,29,15,6,18,29,Denver Nuggets
+"November 19, 2024",Dallas Mavericks,DAL,132,44,19,34,35,0,0,0,0,49-94,14-31,14,34,48,26,12,7,11,15,New Orleans Pelicans,NOP,91,29,22,18,22,0,0,0,0,31-78,11-32,7,30,37,19,9,4,21,22,Dallas Mavericks
+"November 19, 2024",San Antonio Spurs,SAS,110,32,28,33,17,0,0,0,0,39-83,19-46,8,38,46,32,5,5,21,13,Oklahoma City Thunder,OKC,104,35,22,20,27,0,0,0,0,41-100,16-53,13,34,47,24,16,4,13,18,San Antonio Spurs
+"November 19, 2024",Los Angeles Lakers,LAL,124,34,23,40,27,0,0,0,0,42-76,14-31,6,28,34,30,9,5,14,16,Utah Jazz,UTA,118,22,22,31,43,0,0,0,0,45-90,12-36,11,31,42,28,9,0,14,24,Los Angeles Lakers
+"November 20, 2024",Cleveland Cavaliers,CLE,128,29,40,36,23,0,0,0,0,49-93,18-42,16,36,52,29,10,9,11,16,New Orleans Pelicans,NOP,100,24,31,18,27,0,0,0,0,39-92,8-31,16,24,40,23,9,3,11,11,Cleveland Cavaliers
+"November 20, 2024",Milwaukee Bucks,MIL,122,36,33,29,24,0,0,0,0,44-80,13-36,10,35,45,30,7,2,11,13,Chicago Bulls,CHI,106,30,27,33,16,0,0,0,0,41-88,17-45,5,28,33,25,7,2,14,23,Milwaukee Bucks
+"November 20, 2024",Houston Rockets,HOU,130,30,32,36,32,0,0,0,0,47-102,12-36,13,34,47,25,16,2,13,21,Indiana Pacers,IND,113,23,30,24,36,0,0,0,0,44-83,5-22,3,33,36,19,7,9,23,24,Houston Rockets
+"November 20, 2024",Memphis Grizzlies,MEM,117,31,32,27,27,0,0,0,0,41-85,19-43,9,32,41,29,5,6,19,17,Philadelphia 76ers,PHI,111,31,22,28,30,0,0,0,0,39-87,11-33,14,27,41,21,12,6,14,19,Memphis Grizzlies
+"November 20, 2024",Oklahoma City Thunder,OKC,109,21,26,23,39,0,0,0,0,40-91,9-31,15,31,46,24,14,8,13,20,Portland Trail Blazers,POR,99,23,21,25,30,0,0,0,0,32-79,15-38,16,33,49,18,6,7,22,20,Oklahoma City Thunder
+"November 20, 2024",Phoenix Suns,PHX,122,28,30,35,29,0,0,0,0,45-92,19-50,11,23,34,30,9,2,14,16,New York Knicks,NYK,138,44,32,34,28,0,0,0,0,50-86,19-39,10,31,41,30,10,0,13,15,New York Knicks
+"November 20, 2024",Golden State Warriors,GSW,120,41,26,23,30,0,0,0,0,47-101,14-40,9,45,54,36,10,7,15,17,Atlanta Hawks,ATL,97,22,20,33,22,0,0,0,0,35-105,12-45,21,44,65,27,9,5,17,17,Golden State Warriors
+"November 20, 2024",Los Angeles Clippers,LAC,104,29,28,30,17,0,0,0,0,38-77,11-22,15,34,49,22,10,1,22,22,Orlando Magic,ORL,93,25,29,21,18,0,0,0,0,33-75,8-35,2,22,24,21,11,7,14,17,Los Angeles Clippers
+"November 21, 2024",Charlotte Hornets,CHA,123,33,30,30,16,14,0,0,0,44-93,20-44,11,32,43,23,12,5,15,22,Detroit Pistons,DET,121,27,32,20,30,12,0,0,0,42-99,17-48,21,35,56,30,8,3,19,23,Charlotte Hornets
+"November 21, 2024",Toronto Raptors,TOR,110,32,20,25,33,0,0,0,0,37-72,7-23,10,33,43,22,11,1,17,24,Minnesota Timberwolves,MIN,105,27,24,28,26,0,0,0,0,33-80,12-35,10,30,40,16,12,5,17,24,Toronto Raptors
+"November 21, 2024",San Antonio Spurs,SAS,126,17,34,34,41,0,0,0,0,41-88,9-32,11,40,51,32,8,9,11,20,Utah Jazz,UTA,118,32,35,22,29,0,0,0,0,41-98,13-45,12,37,49,22,4,7,14,29,San Antonio Spurs
+"November 21, 2024",Los Angeles Lakers,LAL,118,38,29,21,30,0,0,0,0,44-87,13-31,9,27,36,21,4,6,10,15,Orlando Magic,ORL,119,36,24,29,30,0,0,0,0,43-91,15-40,15,33,48,31,8,5,16,25,Orlando Magic
+"November 22, 2024",Philadelphia 76ers,PHI,113,29,24,26,34,0,0,0,0,41-92,16-43,15,25,40,25,13,9,11,16,Brooklyn Nets,BKN,98,24,26,27,21,0,0,0,0,39-79,13-37,7,27,34,28,1,4,19,17,Philadelphia 76ers
+"November 22, 2024",Washington Wizards,WAS,96,27,24,21,24,0,0,0,0,39-90,7-28,10,38,48,19,6,4,19,29,Boston Celtics,BOS,108,29,20,26,33,0,0,0,0,36-85,11-46,10,33,43,22,11,7,12,19,Boston Celtics
+"November 22, 2024",Milwaukee Bucks,MIL,129,34,24,35,36,0,0,0,0,48-90,17-36,10,34,44,33,10,4,17,19,Indiana Pacers,IND,117,22,22,35,38,0,0,0,0,43-91,11-34,14,32,46,30,11,6,15,17,Milwaukee Bucks
+"November 22, 2024",Chicago Bulls,CHI,136,28,30,41,37,0,0,0,0,49-86,19-43,5,36,41,36,8,10,19,17,Atlanta Hawks,ATL,122,25,26,33,38,0,0,0,0,49-107,10-34,14,28,42,32,11,4,11,16,Chicago Bulls
+"November 22, 2024",Houston Rockets,HOU,116,31,34,31,20,0,0,0,0,42-93,15-39,13,38,51,27,14,5,17,20,Portland Trail Blazers,POR,88,20,25,28,15,0,0,0,0,30-91,11-43,13,32,45,17,9,8,20,20,Houston Rockets
+"November 22, 2024",New Orleans Pelicans,NOP,108,30,33,21,24,0,0,0,0,41-92,12-39,13,30,43,28,10,9,9,25,Golden State Warriors,GSW,112,34,28,25,25,0,0,0,0,39-87,12-37,14,38,52,27,5,5,16,19,Golden State Warriors
+"November 22, 2024",Denver Nuggets,DEN,120,31,22,36,31,0,0,0,0,43-90,15-29,15,27,42,33,4,7,13,19,Dallas Mavericks,DAL,123,33,40,22,28,0,0,0,0,46-91,10-27,12,32,44,24,11,5,13,22,Dallas Mavericks
+"November 22, 2024",Los Angeles Clippers,LAC,104,26,25,25,28,0,0,0,0,39-94,10-42,11,43,54,27,13,3,12,24,Sacramento Kings,SAC,88,12,17,35,24,0,0,0,0,32-83,7-35,8,40,48,19,5,8,15,13,Los Angeles Clippers
+"November 23, 2024",Utah Jazz,UTA,121,28,38,21,34,0,0,0,0,44-87,19-34,9,43,52,30,4,4,18,19,New York Knicks,NYK,106,28,23,27,28,0,0,0,0,39-100,17-51,11,29,40,25,10,10,9,19,Utah Jazz
+"November 23, 2024",Orlando Magic,ORL,111,33,23,32,23,0,0,0,0,40-87,12-39,17,27,44,25,13,9,13,20,Detroit Pistons,DET,100,21,32,26,21,0,0,0,0,35-75,13-33,10,24,34,16,7,8,17,21,Orlando Magic
+"November 23, 2024",Chicago Bulls,CHI,131,22,38,38,33,0,0,0,0,49-97,19-42,10,25,35,29,4,8,11,14,Memphis Grizzlies,MEM,142,30,34,45,33,0,0,0,0,55-96,19-42,13,36,49,38,5,4,11,18,Memphis Grizzlies
+"November 23, 2024",Houston Rockets,HOU,98,21,29,21,27,0,0,0,0,32-90,8-32,14,29,43,17,8,5,9,19,Portland Trail Blazers,POR,104,26,26,21,31,0,0,0,0,34-90,18-44,16,37,53,16,5,12,16,26,Portland Trail Blazers
+"November 23, 2024",Milwaukee Bucks,MIL,125,28,31,37,29,0,0,0,0,43-89,18-37,10,41,51,20,3,9,14,22,Charlotte Hornets,CHA,119,28,23,34,34,0,0,0,0,41-100,19-47,14,34,48,22,6,5,10,21,Milwaukee Bucks
+"November 23, 2024",San Antonio Spurs,SAS,104,17,21,33,33,0,0,0,0,38-85,13-47,9,39,48,29,5,9,8,16,Golden State Warriors,GSW,94,29,21,31,13,0,0,0,0,36-95,14-44,17,32,49,29,4,3,10,21,San Antonio Spurs
+"November 23, 2024",Los Angeles Lakers,LAL,102,27,36,15,24,0,0,0,0,39-88,13-36,6,26,32,27,11,3,15,16,Denver Nuggets,DEN,127,31,26,37,33,0,0,0,0,50-82,16-32,8,40,48,37,7,2,17,18,Denver Nuggets
+"November 24, 2024",Boston Celtics,BOS,107,24,31,29,23,0,0,0,0,37-87,21-56,8,32,40,25,5,7,6,23,Minnesota Timberwolves,MIN,105,27,25,21,32,0,0,0,0,37-88,15-41,11,38,49,19,2,1,8,18,Boston Celtics
+"November 24, 2024",Indiana Pacers,IND,115,31,26,35,23,0,0,0,0,41-86,12-27,12,33,45,31,8,3,11,18,Washington Wizards,WAS,103,28,31,28,16,0,0,0,0,36-79,11-35,8,33,41,24,8,5,16,19,Indiana Pacers
+"November 24, 2024",Miami Heat,MIA,123,33,23,33,25,9,0,0,0,46-107,14-41,12,45,57,27,6,6,9,22,Dallas Mavericks,DAL,118,28,23,33,30,4,0,0,0,44-105,10-40,15,44,59,29,6,9,13,24,Miami Heat
+"November 24, 2024",Philadelphia 76ers,PHI,99,27,23,22,27,0,0,0,0,34-86,9-39,13,20,33,22,8,5,13,17,Los Angeles Clippers,LAC,125,39,23,35,28,0,0,0,0,47-81,12-30,10,34,44,31,9,5,17,22,Los Angeles Clippers
+"November 24, 2024",Cleveland Cavaliers,CLE,122,38,27,31,26,0,0,0,0,48-97,16-41,14,35,49,27,11,4,13,21,Toronto Raptors,TOR,108,22,33,35,18,0,0,0,0,37-92,12-39,19,36,55,22,9,5,14,18,Cleveland Cavaliers
+"November 24, 2024",Sacramento Kings,SAC,103,28,29,31,15,0,0,0,0,37-77,9-25,11,33,44,21,6,6,16,22,Brooklyn Nets,BKN,108,37,28,23,20,0,0,0,0,36-75,19-39,6,25,31,24,7,5,12,23,Brooklyn Nets
+"November 25, 2024",Charlotte Hornets,CHA,84,25,21,16,22,0,0,0,0,31-75,7-32,13,39,52,14,6,5,26,20,Orlando Magic,ORL,95,18,24,16,37,0,0,0,0,37-94,12-46,13,26,39,21,12,6,8,21,Orlando Magic
+"November 25, 2024",Detroit Pistons,DET,102,29,19,24,30,0,0,0,0,34-76,12-37,6,32,38,27,4,7,14,19,Toronto Raptors,TOR,100,22,26,32,20,0,0,0,0,41-104,10-35,23,27,50,26,7,5,9,27,Detroit Pistons
+"November 25, 2024",Indiana Pacers,IND,114,29,30,28,27,0,0,0,0,43-91,17-47,7,34,41,30,10,2,13,16,New Orleans Pelicans,NOP,110,25,32,26,27,0,0,0,0,45-87,9-33,8,36,44,35,9,3,15,16,Indiana Pacers
+"November 25, 2024",Atlanta Hawks,ATL,119,31,36,28,24,0,0,0,0,48-101,9-31,9,30,39,32,10,6,14,15,Dallas Mavericks,DAL,129,28,33,35,33,0,0,0,0,47-94,16-35,10,41,51,24,6,8,17,13,Dallas Mavericks
+"November 25, 2024",Boston Celtics,BOS,126,27,51,21,27,0,0,0,0,45-88,22-51,8,39,47,33,10,11,11,12,Los Angeles Clippers,LAC,94,20,29,29,16,0,0,0,0,39-90,7-26,10,34,44,18,8,3,13,12,Boston Celtics
+"November 25, 2024",Memphis Grizzlies,MEM,123,36,29,27,31,0,0,0,0,43-87,12-28,16,44,60,35,7,13,18,20,Portland Trail Blazers,POR,98,24,30,21,23,0,0,0,0,34-102,8-46,19,25,44,22,10,7,11,21,Memphis Grizzlies
+"November 25, 2024",Denver Nuggets,DEN,118,24,29,34,31,0,0,0,0,41-92,11-33,10,23,33,23,5,3,11,18,New York Knicks,NYK,145,36,40,37,32,0,0,0,0,56-92,19-36,8,35,43,45,5,4,9,23,New York Knicks
+"November 25, 2024",Golden State Warriors,GSW,120,30,37,25,28,0,0,0,0,45-93,19-46,11,32,43,32,8,5,12,21,Brooklyn Nets,BKN,128,34,24,29,41,0,0,0,0,41-83,20-45,7,35,42,23,6,3,11,18,Brooklyn Nets
+"November 25, 2024",Sacramento Kings,SAC,109,30,32,22,25,0,0,0,0,42-87,8-32,9,22,31,24,10,4,12,22,Oklahoma City Thunder,OKC,130,31,32,34,33,0,0,0,0,48-86,14-31,11,33,44,28,6,3,15,18,Oklahoma City Thunder
+"November 26, 2024",Washington Wizards,WAS,108,29,18,34,27,0,0,0,0,39-91,10-37,5,38,43,27,7,3,12,18,Chicago Bulls,CHI,127,21,40,35,31,0,0,0,0,47-94,14-40,8,42,50,29,6,4,10,22,Chicago Bulls
+"November 26, 2024",Miami Heat,MIA,103,20,31,29,23,0,0,0,0,35-77,10-29,9,29,38,26,6,2,8,14,Milwaukee Bucks,MIL,106,31,34,20,21,0,0,0,0,36-77,20-42,9,32,41,23,5,7,10,19,Milwaukee Bucks
+"November 26, 2024",Minnesota Timberwolves,MIN,111,26,21,31,24,9,0,0,0,42-98,9-38,14,38,52,21,6,4,17,18,Houston Rockets,HOU,117,32,25,27,18,15,0,0,0,45-99,15-37,7,37,44,31,12,9,10,20,Houston Rockets
+"November 26, 2024",Utah Jazz,UTA,115,35,31,27,22,0,0,0,0,43-84,13-35,10,31,41,24,6,4,21,20,San Antonio Spurs,SAS,128,32,34,30,32,0,0,0,0,45-93,18-48,13,26,39,30,12,5,10,17,San Antonio Spurs
+"November 26, 2024",Phoenix Suns,PHX,127,31,31,36,29,0,0,0,0,51-99,17-42,8,38,46,31,9,3,9,18,Los Angeles Lakers,LAL,100,25,35,18,22,0,0,0,0,37-85,8-34,7,35,42,25,7,6,12,11,Phoenix Suns
+"November 27, 2024",Charlotte Hornets,CHA,94,26,13,19,36,0,0,0,0,37-98,17-51,16,27,43,22,10,5,13,19,Miami Heat,MIA,98,26,24,25,23,0,0,0,0,33-73,14-37,4,40,44,21,6,5,18,9,Miami Heat
+"November 27, 2024",Cleveland Cavaliers,CLE,124,35,29,31,29,0,0,0,0,44-95,15-48,12,32,44,31,11,5,12,21,Atlanta Hawks,ATL,135,35,26,37,37,0,0,0,0,46-97,20-42,14,37,51,39,6,6,13,21,Atlanta Hawks
+"November 27, 2024",Indiana Pacers,IND,121,26,34,36,25,0,0,0,0,46-94,13-32,19,28,47,27,10,10,12,21,Portland Trail Blazers,POR,114,31,29,25,29,0,0,0,0,44-87,16-35,13,25,38,31,6,5,14,18,Indiana Pacers
+"November 27, 2024",Orlando Magic,ORL,133,38,35,32,28,0,0,0,0,46-90,15-39,7,32,39,30,10,8,11,14,Chicago Bulls,CHI,119,25,29,34,31,0,0,0,0,46-87,16-42,7,30,37,30,9,6,18,26,Orlando Magic
+"November 27, 2024",Philadelphia 76ers,PHI,115,24,27,31,26,7,0,0,0,43-96,12-33,10,32,42,19,12,7,14,26,Houston Rockets,HOU,122,35,20,33,20,14,0,0,0,40-88,10-31,14,37,51,23,10,14,20,19,Houston Rockets
+"November 27, 2024",Washington Wizards,WAS,96,26,18,25,27,0,0,0,0,35-85,8-33,11,29,40,21,9,4,20,18,Los Angeles Clippers,LAC,121,37,24,27,33,0,0,0,0,45-89,12-33,13,34,47,27,18,4,13,19,Los Angeles Clippers
+"November 27, 2024",Dallas Mavericks,DAL,129,28,32,30,39,0,0,0,0,48-85,17-33,10,33,43,27,6,4,13,25,New York Knicks,NYK,114,15,23,33,43,0,0,0,0,40-86,7-29,7,26,33,20,9,3,8,19,Dallas Mavericks
+"November 27, 2024",Memphis Grizzlies,MEM,131,34,37,33,27,0,0,0,0,51-93,17-46,10,32,42,31,13,4,16,21,Detroit Pistons,DET,111,35,18,24,34,0,0,0,0,40-85,13-38,9,33,42,24,6,4,18,17,Memphis Grizzlies
+"November 27, 2024",Minnesota Timberwolves,MIN,104,33,24,29,18,0,0,0,0,33-74,14-39,4,29,33,25,11,9,15,19,Sacramento Kings,SAC,115,31,38,12,34,0,0,0,0,46-94,12-37,12,35,47,28,8,3,16,21,Sacramento Kings
+"November 27, 2024",New Orleans Pelicans,NOP,93,20,26,17,30,0,0,0,0,36-93,11-35,10,37,47,24,12,4,15,16,Toronto Raptors,TOR,119,21,35,31,32,0,0,0,0,47-95,21-52,12,40,52,38,11,4,15,16,Toronto Raptors
+"November 27, 2024",San Antonio Spurs,SAS,101,23,24,30,24,0,0,0,0,36-85,14-40,11,27,38,26,7,4,15,13,Los Angeles Lakers,LAL,119,32,26,34,27,0,0,0,0,48-90,13-34,11,35,46,31,8,3,13,15,Los Angeles Lakers
+"November 27, 2024",Phoenix Suns,PHX,117,37,26,21,33,0,0,0,0,41-77,12-31,3,34,37,25,7,5,17,26,Brooklyn Nets,BKN,127,34,29,33,31,0,0,0,0,44-87,18-42,7,29,36,32,8,1,12,24,Brooklyn Nets
+"November 27, 2024",Utah Jazz,UTA,103,35,18,23,27,0,0,0,0,38-90,16-43,21,26,47,25,7,5,18,17,Denver Nuggets,DEN,122,34,29,37,22,0,0,0,0,46-84,11-33,10,29,39,30,10,8,10,14,Denver Nuggets
+"November 27, 2024",Golden State Warriors,GSW,101,23,27,33,18,0,0,0,0,35-98,16-50,18,39,57,25,7,6,14,21,Oklahoma City Thunder,OKC,105,39,23,22,21,0,0,0,0,39-85,11-37,8,40,48,26,10,9,14,21,Oklahoma City Thunder
+"November 29, 2024",Charlotte Hornets,CHA,98,23,26,23,26,0,0,0,0,36-89,15-47,14,25,39,25,8,6,13,19,New York Knicks,NYK,99,15,31,25,28,0,0,0,0,36-81,12-32,12,32,44,20,7,5,19,19,New York Knicks
+"November 29, 2024",Atlanta Hawks,ATL,117,29,23,39,26,0,0,0,0,44-85,14-34,10,43,53,33,9,5,18,20,Cleveland Cavaliers,CLE,101,27,23,23,28,0,0,0,0,38-93,11-38,11,29,40,21,9,0,13,22,Atlanta Hawks
+"November 29, 2024",Memphis Grizzlies,MEM,120,32,35,25,28,0,0,0,0,47-96,12-41,14,37,51,36,9,5,15,22,New Orleans Pelicans,NOP,109,28,28,26,27,0,0,0,0,38-91,9-29,14,32,46,16,9,7,14,17,Memphis Grizzlies
+"November 29, 2024",Brooklyn Nets,BKN,100,29,20,22,29,0,0,0,0,38-77,14-29,5,30,35,22,5,5,20,21,Orlando Magic,ORL,123,33,28,35,27,0,0,0,0,44-83,18-35,11,29,40,29,13,13,17,21,Orlando Magic
+"November 29, 2024",Minnesota Timberwolves,MIN,93,26,27,19,21,0,0,0,0,31-75,15-39,11,38,49,25,8,5,21,14,Los Angeles Clippers,LAC,92,25,22,21,24,0,0,0,0,36-84,10-31,8,31,39,20,17,3,15,16,Minnesota Timberwolves
+"November 29, 2024",Indiana Pacers,IND,106,24,29,20,33,0,0,0,0,41-85,12-33,7,25,32,23,9,4,16,18,Detroit Pistons,DET,130,33,30,29,38,0,0,0,0,48-83,18-38,7,37,44,35,9,5,18,16,Detroit Pistons
+"November 29, 2024",Miami Heat,MIA,121,20,38,38,25,0,0,0,0,43-94,21-54,9,24,33,32,10,0,8,19,Toronto Raptors,TOR,111,21,40,23,27,0,0,0,0,43-80,11-29,10,36,46,34,4,3,18,17,Miami Heat
+"November 29, 2024",Chicago Bulls,CHI,129,30,37,29,33,0,0,0,0,48-93,20-51,5,38,43,28,7,2,8,17,Boston Celtics,BOS,138,39,28,29,42,0,0,0,0,49-98,23-54,11,40,51,24,6,2,9,13,Boston Celtics
+"November 29, 2024",Los Angeles Lakers,LAL,93,24,24,21,24,0,0,0,0,33-73,11-38,8,39,47,25,4,6,17,18,Oklahoma City Thunder,OKC,101,32,19,20,30,0,0,0,0,38-93,13-40,15,32,47,20,12,3,9,17,Oklahoma City Thunder
+"November 29, 2024",Portland Trail Blazers,POR,115,25,29,33,28,0,0,0,0,46-90,11-37,8,32,40,27,10,3,11,17,Sacramento Kings,SAC,106,30,20,22,34,0,0,0,0,35-78,15-42,11,30,41,29,7,4,20,19,Portland Trail Blazers
+"November 30, 2024",Charlotte Hornets,CHA,104,32,18,26,28,0,0,0,0,35-94,18-48,18,27,45,23,13,6,14,23,Atlanta Hawks,ATL,107,29,26,22,30,0,0,0,0,38-78,10-33,14,35,49,27,8,7,20,15,Atlanta Hawks
+"November 30, 2024",Detroit Pistons,DET,96,20,32,17,27,0,0,0,0,35-91,11-40,10,32,42,22,6,5,16,19,Philadelphia 76ers,PHI,111,37,20,32,22,0,0,0,0,42-85,11-31,12,38,50,19,9,8,14,21,Philadelphia 76ers
+"November 30, 2024",Milwaukee Bucks,MIL,124,28,35,29,32,0,0,0,0,44-86,16-35,7,31,38,31,5,6,11,18,Washington Wizards,WAS,114,29,29,28,28,0,0,0,0,41-87,9-32,8,33,41,24,7,3,12,26,Milwaukee Bucks
+"November 30, 2024",Phoenix Suns,PHX,113,35,31,19,28,0,0,0,0,38-79,18-35,6,39,45,31,4,9,12,13,Golden State Warriors,GSW,105,29,20,29,27,0,0,0,0,38-92,14-40,9,34,43,28,8,5,9,17,Phoenix Suns
+"November 30, 2024",Utah Jazz,UTA,94,22,27,27,18,0,0,0,0,34-95,9-39,19,34,53,20,10,7,15,14,Dallas Mavericks,DAL,106,40,16,30,20,0,0,0,0,41-90,15-39,12,36,48,30,12,6,15,21,Dallas Mavericks
+"December 01, 2024",Brooklyn Nets,BKN,92,29,21,19,23,0,0,0,0,30-79,8-31,8,25,33,19,10,3,16,31,Orlando Magic,ORL,100,26,24,25,25,0,0,0,0,34-74,7-28,14,38,52,23,10,11,22,29,Orlando Magic
+"December 01, 2024",Memphis Grizzlies,MEM,136,28,34,40,34,0,0,0,0,49-93,16-46,8,32,40,36,9,6,10,22,Indiana Pacers,IND,121,45,23,23,30,0,0,0,0,43-90,14-42,6,35,41,28,8,3,15,22,Memphis Grizzlies
+"December 01, 2024",Cleveland Cavaliers,CLE,115,28,23,21,43,0,0,0,0,39-80,17-36,6,38,44,22,5,7,17,20,Boston Celtics,BOS,111,24,25,35,27,0,0,0,0,38-95,17-49,10,36,46,17,11,6,8,19,Cleveland Cavaliers
+"December 01, 2024",New York Knicks,NYK,118,33,24,36,25,0,0,0,0,42-92,20-45,14,46,60,30,10,9,17,14,New Orleans Pelicans,NOP,85,10,18,28,29,0,0,0,0,35-94,4-27,13,29,42,20,14,9,14,19,New York Knicks
+"December 01, 2024",Toronto Raptors,TOR,119,34,31,33,21,0,0,0,0,47-88,10-29,10,37,47,30,4,5,14,23,Miami Heat,MIA,116,24,36,27,29,0,0,0,0,39-88,15-40,12,33,45,25,11,4,14,17,Toronto Raptors
+"December 01, 2024",Houston Rockets,HOU,119,33,29,29,28,0,0,0,0,38-92,13-37,15,36,51,20,3,6,10,21,Oklahoma City Thunder,OKC,116,28,32,36,20,0,0,0,0,42-94,13-39,11,35,46,30,5,4,7,26,Houston Rockets
+"December 01, 2024",Utah Jazz,UTA,104,27,29,25,23,0,0,0,0,40-79,14-40,8,36,44,27,4,4,15,19,Los Angeles Lakers,LAL,105,26,32,28,19,0,0,0,0,39-88,7-33,10,32,42,23,7,4,5,18,Los Angeles Lakers
+"December 01, 2024",Portland Trail Blazers,POR,131,29,29,39,34,0,0,0,0,49-84,18-31,10,29,39,29,7,0,21,25,Dallas Mavericks,DAL,137,25,36,39,37,0,0,0,0,48-87,18-36,8,25,33,33,13,0,13,15,Dallas Mavericks
+"December 01, 2024",Sacramento Kings,SAC,125,42,23,32,28,0,0,0,0,47-101,12-32,21,30,51,32,8,5,10,23,San Antonio Spurs,SAS,127,28,30,34,35,0,0,0,0,42-82,23-46,8,30,38,32,6,9,15,17,San Antonio Spurs
+"December 01, 2024",Los Angeles Clippers,LAC,126,32,27,33,34,0,0,0,0,43-90,18-39,13,29,42,28,8,4,14,16,Denver Nuggets,DEN,122,23,36,31,32,0,0,0,0,51-88,10-24,8,31,39,37,7,3,14,17,Los Angeles Clippers
+"December 02, 2024",Atlanta Hawks,ATL,124,26,32,34,32,0,0,0,0,49-96,10-38,11,40,51,30,12,4,18,15,New Orleans Pelicans,NOP,112,28,31,26,27,0,0,0,0,44-100,13-42,15,26,41,21,15,5,16,18,Atlanta Hawks
+"December 02, 2024",Boston Celtics,BOS,108,28,32,25,23,0,0,0,0,39-89,19-55,14,40,54,25,5,9,14,20,Miami Heat,MIA,89,25,20,18,26,0,0,0,0,31-87,8-35,11,33,44,24,6,1,10,11,Boston Celtics
+"December 02, 2024",Chicago Bulls,CHI,128,29,27,36,36,0,0,0,0,48-92,16-47,11,43,54,33,8,5,16,16,Brooklyn Nets,BKN,102,29,21,22,30,0,0,0,0,38-95,14-42,10,31,41,24,9,5,10,19,Chicago Bulls
+"December 02, 2024",Minnesota Timberwolves,MIN,109,22,34,23,30,0,0,0,0,41-81,15-35,7,36,43,31,11,2,15,17,Los Angeles Lakers,LAL,80,20,24,20,16,0,0,0,0,32-79,6-31,9,30,39,19,8,2,20,16,Minnesota Timberwolves
+"December 03, 2024",Charlotte Hornets,CHA,104,20,24,25,35,0,0,0,0,34-77,13-34,15,32,47,22,5,3,15,17,Philadelphia 76ers,PHI,110,32,23,25,30,0,0,0,0,38-82,16-40,8,23,31,26,9,3,12,22,Philadelphia 76ers
+"December 03, 2024",Cleveland Cavaliers,CLE,118,35,25,26,32,0,0,0,0,43-89,16-46,7,38,45,31,11,4,11,20,Washington Wizards,WAS,87,20,22,25,20,0,0,0,0,32-83,4-26,13,39,52,18,4,8,20,21,Cleveland Cavaliers
+"December 03, 2024",Detroit Pistons,DET,107,31,28,29,19,0,0,0,0,40-87,11-33,13,28,41,22,11,7,18,21,Milwaukee Bucks,MIL,128,36,42,32,18,0,0,0,0,45-80,23-41,4,32,36,26,10,6,16,17,Milwaukee Bucks
+"December 03, 2024",New York Knicks,NYK,121,36,35,35,15,0,0,0,0,43-85,15-35,5,34,39,30,6,4,17,25,Orlando Magic,ORL,106,27,24,24,31,0,0,0,0,38-87,9-39,9,29,38,20,9,4,15,19,New York Knicks
+"December 03, 2024",Toronto Raptors,TOR,122,31,34,28,29,0,0,0,0,44-81,13-33,6,36,42,28,9,4,21,26,Indiana Pacers,IND,111,23,25,36,27,0,0,0,0,38-84,12-30,9,25,34,21,8,6,20,23,Toronto Raptors
+"December 03, 2024",Oklahoma City Thunder,OKC,133,32,30,40,31,0,0,0,0,53-102,17-47,15,19,34,32,18,3,8,23,Utah Jazz,UTA,106,25,25,25,31,0,0,0,0,38-70,13-35,11,25,36,21,3,6,29,14,Oklahoma City Thunder
+"December 03, 2024",Dallas Mavericks,DAL,121,25,35,22,39,0,0,0,0,39-81,13-32,14,35,49,24,8,8,25,23,Memphis Grizzlies,MEM,116,26,31,38,21,0,0,0,0,45-97,13-40,13,26,39,27,15,3,19,29,Dallas Mavericks
+"December 03, 2024",Phoenix Suns,PHX,104,29,23,23,29,0,0,0,0,38-78,11-32,2,42,44,26,10,5,12,16,San Antonio Spurs,SAS,93,19,20,32,22,0,0,0,0,35-100,8-44,18,35,53,26,9,2,14,17,Phoenix Suns
+"December 03, 2024",Denver Nuggets,DEN,119,33,24,33,29,0,0,0,0,40-79,11-24,4,34,38,32,9,5,15,15,Golden State Warriors,GSW,115,31,26,28,30,0,0,0,0,44-95,12-38,11,37,48,36,12,3,14,25,Denver Nuggets
+"December 03, 2024",Sacramento Kings,SAC,120,21,33,42,24,0,0,0,0,47-91,14-30,10,24,34,33,7,8,10,20,Houston Rockets,HOU,111,28,27,29,27,0,0,0,0,41-93,14-39,18,35,53,14,6,1,15,23,Sacramento Kings
+"December 03, 2024",Los Angeles Clippers,LAC,127,36,27,28,36,0,0,0,0,47-85,19-37,11,24,35,29,8,8,13,14,Portland Trail Blazers,POR,105,31,27,20,27,0,0,0,0,41-80,10-29,11,18,29,25,6,4,15,15,Los Angeles Clippers
+"December 04, 2024",Boston Celtics,BOS,130,39,33,31,27,0,0,0,0,45-94,21-53,14,29,43,30,11,7,16,14,Detroit Pistons,DET,120,24,34,30,32,0,0,0,0,43-84,20-39,8,26,34,27,10,5,18,21,Boston Celtics
+"December 04, 2024",Brooklyn Nets,BKN,99,24,27,24,24,0,0,0,0,35-81,12-36,7,36,43,24,12,6,12,18,Indiana Pacers,IND,90,17,18,35,20,0,0,0,0,32-75,8-33,5,34,39,20,6,10,16,19,Brooklyn Nets
+"December 04, 2024",Miami Heat,MIA,134,34,35,36,29,0,0,0,0,52-90,24-47,13,39,52,42,11,5,15,16,Los Angeles Lakers,LAL,93,26,26,20,21,0,0,0,0,37-88,5-22,12,24,36,29,9,4,13,8,Miami Heat
+"December 04, 2024",Philadelphia 76ers,PHI,102,22,31,24,25,0,0,0,0,40-82,11-30,10,25,35,23,9,1,14,19,Orlando Magic,ORL,106,34,19,24,29,0,0,0,0,41-84,8-29,16,26,42,21,13,7,13,18,Orlando Magic
+"December 04, 2024",Milwaukee Bucks,MIL,104,35,24,28,17,0,0,0,0,33-78,15-45,8,32,40,23,7,4,18,22,Atlanta Hawks,ATL,119,38,32,29,20,0,0,0,0,45-102,9-32,15,39,54,29,16,3,11,25,Atlanta Hawks
+"December 04, 2024",Los Angeles Clippers,LAC,80,14,18,18,30,0,0,0,0,29-83,11-40,10,36,46,13,7,2,21,16,Minnesota Timberwolves,MIN,108,33,26,27,22,0,0,0,0,41-85,16-44,7,43,50,31,15,5,14,16,Minnesota Timberwolves
+"December 05, 2024",Cleveland Cavaliers,CLE,126,37,29,36,24,0,0,0,0,47-94,22-48,9,38,47,32,9,3,15,17,Denver Nuggets,DEN,114,27,35,25,27,0,0,0,0,46-96,6-24,9,40,49,25,12,5,15,13,Cleveland Cavaliers
+"December 05, 2024",Washington Wizards,WAS,101,22,28,27,24,0,0,0,0,39-99,13-40,12,27,39,25,10,3,12,19,Dallas Mavericks,DAL,137,31,37,34,35,0,0,0,0,48-89,20-38,13,45,58,27,8,12,15,16,Dallas Mavericks
+"December 05, 2024",New York Knicks,NYK,125,30,35,38,22,0,0,0,0,41-76,18-33,6,37,43,29,7,4,9,13,Charlotte Hornets,CHA,101,32,30,16,23,0,0,0,0,40-89,15-39,10,30,40,27,3,4,10,22,New York Knicks
+"December 05, 2024",Toronto Raptors,TOR,92,17,25,23,27,0,0,0,0,32-90,11-45,12,39,51,24,5,7,20,16,Oklahoma City Thunder,OKC,129,34,33,32,30,0,0,0,0,49-102,17-47,13,42,55,28,15,11,6,16,Oklahoma City Thunder
+"December 05, 2024",Memphis Grizzlies,MEM,115,33,30,23,29,0,0,0,0,38-80,13-38,9,40,49,27,9,5,22,21,Sacramento Kings,SAC,110,32,30,24,24,0,0,0,0,39-98,8-35,14,32,46,19,11,1,13,23,Memphis Grizzlies
+"December 05, 2024",New Orleans Pelicans,NOP,126,34,20,45,27,0,0,0,0,47-95,14-36,12,32,44,23,13,4,13,24,Phoenix Suns,PHX,124,33,32,28,31,0,0,0,0,43-85,17-45,10,36,46,32,10,3,17,15,New Orleans Pelicans
+"December 05, 2024",San Antonio Spurs,SAS,124,22,35,40,27,0,0,0,0,44-95,8-28,15,26,41,26,11,4,11,17,Chicago Bulls,CHI,139,36,37,35,31,0,0,0,0,52-90,17-37,11,39,50,36,6,5,17,26,Chicago Bulls
+"December 05, 2024",Golden State Warriors,GSW,99,18,31,24,26,0,0,0,0,36-86,9-28,11,43,54,19,5,3,10,16,Houston Rockets,HOU,93,22,21,23,27,0,0,0,0,35-93,10-38,11,34,45,20,9,9,8,20,Golden State Warriors
+"December 06, 2024",Philadelphia 76ers,PHI,102,25,25,21,31,0,0,0,0,38-79,7-26,10,27,37,23,11,0,15,19,Orlando Magic,ORL,94,27,14,18,35,0,0,0,0,33-78,13-46,8,30,38,21,8,6,19,23,Philadelphia 76ers
+"December 06, 2024",Atlanta Hawks,ATL,134,26,38,30,25,15,0,0,0,50-100,17-40,11,37,48,40,10,5,17,24,Los Angeles Lakers,LAL,132,29,35,33,22,13,0,0,0,51-99,16-35,6,34,40,33,11,10,13,24,Atlanta Hawks
+"December 06, 2024",Boston Celtics,BOS,111,29,24,25,33,0,0,0,0,40-87,17-53,7,34,41,27,5,6,6,18,Milwaukee Bucks,MIL,105,27,30,25,23,0,0,0,0,40-94,11-29,12,39,51,16,4,2,9,16,Boston Celtics
+"December 06, 2024",Chicago Bulls,CHI,123,35,19,39,30,0,0,0,0,46-97,21-50,8,30,38,33,8,6,12,13,Indiana Pacers,IND,132,31,36,36,29,0,0,0,0,52-92,18-30,7,39,46,33,9,4,12,10,Indiana Pacers
+"December 06, 2024",San Antonio Spurs,SAS,113,33,26,27,27,0,0,0,0,39-91,14-41,12,30,42,28,8,5,14,20,Sacramento Kings,SAC,140,33,36,31,40,0,0,0,0,51-90,16-34,7,37,44,33,7,6,11,20,Sacramento Kings
+"December 06, 2024",Golden State Warriors,GSW,90,31,15,26,18,0,0,0,0,32-82,11-39,10,31,41,21,9,4,22,11,Minnesota Timberwolves,MIN,107,31,25,22,29,0,0,0,0,40-88,14-42,9,39,48,32,12,6,17,14,Minnesota Timberwolves
+"December 06, 2024",Portland Trail Blazers,POR,99,17,27,26,29,0,0,0,0,37-95,14-47,6,28,34,23,4,7,10,22,Utah Jazz,UTA,141,33,34,35,39,0,0,0,0,53-96,14-32,11,50,61,34,6,11,12,17,Utah Jazz
+"December 07, 2024",Charlotte Hornets,CHA,102,18,34,31,19,0,0,0,0,37-86,11-39,10,27,37,21,6,5,10,27,Cleveland Cavaliers,CLE,116,40,23,30,23,0,0,0,0,42-84,14-38,14,33,47,28,6,6,11,20,Cleveland Cavaliers
+"December 07, 2024",Washington Wizards,WAS,122,36,33,30,23,0,0,0,0,45-93,16-41,15,31,46,31,9,12,17,21,Denver Nuggets,DEN,113,29,28,36,20,0,0,0,0,46-95,5-25,16,32,48,34,11,6,15,23,Washington Wizards
+"December 07, 2024",New Orleans Pelicans,NOP,109,23,28,29,29,0,0,0,0,38-79,11-37,8,27,35,25,15,6,18,20,Oklahoma City Thunder,OKC,119,35,42,22,20,0,0,0,0,45-85,12-32,10,35,45,27,13,3,18,24,Oklahoma City Thunder
+"December 07, 2024",New York Knicks,NYK,111,23,35,27,26,0,0,0,0,42-79,11-34,4,27,31,27,11,5,15,12,Detroit Pistons,DET,120,39,30,20,31,0,0,0,0,43-83,18-36,9,34,43,28,7,0,18,20,Detroit Pistons
+"December 07, 2024",Toronto Raptors,TOR,118,28,26,33,31,0,0,0,0,43-93,15-39,8,31,39,37,13,3,13,22,Dallas Mavericks,DAL,125,35,35,30,25,0,0,0,0,38-81,17-45,14,38,52,21,10,8,18,16,Dallas Mavericks
+"December 07, 2024",Boston Celtics,BOS,121,27,27,35,32,0,0,0,0,42-105,18-60,15,36,51,26,6,7,13,16,Memphis Grizzlies,MEM,127,31,35,28,33,0,0,0,0,47-94,15-33,11,41,52,25,13,7,13,25,Memphis Grizzlies
+"December 07, 2024",Miami Heat,MIA,121,26,27,34,34,0,0,0,0,45-86,13-32,11,30,41,30,9,4,11,20,Phoenix Suns,PHX,111,29,29,24,29,0,0,0,0,36-82,16-41,13,28,41,29,8,3,14,20,Miami Heat
+"December 08, 2024",Chicago Bulls,CHI,100,33,17,29,21,0,0,0,0,35-86,19-54,2,33,35,29,9,3,15,18,Philadelphia 76ers,PHI,108,23,39,26,20,0,0,0,0,43-92,9-36,10,46,56,25,8,5,15,15,Philadelphia 76ers
+"December 08, 2024",Brooklyn Nets,BKN,113,25,27,34,27,0,0,0,0,41-81,16-35,7,23,30,24,9,3,9,25,Milwaukee Bucks,MIL,118,27,24,35,32,0,0,0,0,39-68,15-31,3,28,31,26,6,7,16,18,Milwaukee Bucks
+"December 08, 2024",Indiana Pacers,IND,109,24,38,20,27,0,0,0,0,42-82,12-36,3,26,29,23,9,7,17,19,Charlotte Hornets,CHA,113,28,35,20,30,0,0,0,0,40-78,14-29,10,35,45,24,11,3,24,18,Charlotte Hornets
+"December 08, 2024",Atlanta Hawks,ATL,111,23,25,36,27,0,0,0,0,41-101,9-40,19,26,45,26,12,2,12,22,Denver Nuggets,DEN,141,38,33,35,35,0,0,0,0,56-89,12-27,7,36,43,43,9,5,18,22,Denver Nuggets
+"December 08, 2024",Miami Heat,MIA,122,21,38,31,32,0,0,0,0,41-86,16-37,10,37,47,27,4,4,11,15,Cleveland Cavaliers,CLE,113,25,26,29,33,0,0,0,0,41-86,14-33,5,31,36,25,5,1,9,18,Miami Heat
+"December 08, 2024",Orlando Magic,ORL,115,29,28,27,31,0,0,0,0,42-88,12-36,14,30,44,17,11,6,13,19,Phoenix Suns,PHX,110,34,28,25,23,0,0,0,0,39-83,13-28,9,30,39,24,7,6,19,24,Orlando Magic
+"December 08, 2024",Washington Wizards,WAS,112,26,29,27,30,0,0,0,0,43-100,6-32,20,32,52,20,10,5,21,25,Memphis Grizzlies,MEM,140,34,38,39,29,0,0,0,0,50-96,17-43,12,34,46,34,12,8,16,20,Memphis Grizzlies
+"December 08, 2024",San Antonio Spurs,SAS,121,28,43,21,29,0,0,0,0,42-93,12-39,16,39,55,27,7,11,13,18,New Orleans Pelicans,NOP,116,34,28,25,29,0,0,0,0,43-99,13-38,13,30,43,26,9,8,8,21,San Antonio Spurs
+"December 08, 2024",Golden State Warriors,GSW,114,21,28,44,21,0,0,0,0,42-90,16-41,14,31,45,28,8,6,11,20,Minnesota Timberwolves,MIN,106,30,28,32,16,0,0,0,0,36-79,19-42,7,32,39,22,6,8,14,18,Golden State Warriors
+"December 08, 2024",Los Angeles Clippers,LAC,106,28,24,31,23,0,0,0,0,41-92,11-34,7,26,33,21,11,3,7,24,Houston Rockets,HOU,117,30,34,31,22,0,0,0,0,40-82,15-41,12,38,50,23,4,4,15,16,Houston Rockets
+"December 08, 2024",Sacramento Kings,SAC,141,26,36,43,36,0,0,0,0,57-100,22-44,9,34,43,39,10,7,8,17,Utah Jazz,UTA,97,23,22,29,23,0,0,0,0,31-80,15-42,9,29,38,21,6,6,20,17,Sacramento Kings
+"December 08, 2024",Los Angeles Lakers,LAL,107,22,37,18,30,0,0,0,0,38-83,13-34,8,32,40,25,14,7,11,20,Portland Trail Blazers,POR,98,28,17,29,24,0,0,0,0,35-84,9-36,12,37,49,17,4,3,17,19,Los Angeles Lakers
+"December 09, 2024",Toronto Raptors,TOR,108,27,34,25,22,0,0,0,0,43-96,13-35,17,34,51,23,4,4,12,16,New York Knicks,NYK,113,34,26,23,30,0,0,0,0,42-82,17-40,6,34,40,32,7,7,10,13,New York Knicks
+"December 10, 2024",Milwaukee Bucks,MIL,114,25,35,20,34,0,0,0,0,42-77,11-30,5,32,37,27,9,6,16,17,Orlando Magic,ORL,109,33,26,13,37,0,0,0,0,41-93,6-27,15,31,46,19,11,4,13,21,Milwaukee Bucks
+"December 10, 2024",Oklahoma City Thunder,OKC,118,32,25,33,28,0,0,0,0,46-101,20-50,17,35,52,29,14,5,13,17,Dallas Mavericks,DAL,104,24,30,19,31,0,0,0,0,38-80,15-36,7,37,44,25,10,2,18,12,Oklahoma City Thunder
+"December 11, 2024",New York Knicks,NYK,100,28,26,18,28,0,0,0,0,40-93,11-42,12,37,49,27,8,11,12,14,Atlanta Hawks,ATL,108,22,25,34,27,0,0,0,0,43-104,9-31,22,36,58,27,5,7,10,13,Atlanta Hawks
+"December 11, 2024",Houston Rockets,HOU,91,20,24,24,23,0,0,0,0,38-83,6-27,7,29,36,23,10,5,16,14,Golden State Warriors,GSW,90,18,19,32,21,0,0,0,0,37-84,12-38,11,28,39,22,13,8,15,11,Houston Rockets
+"December 12, 2024",Boston Celtics,BOS,123,27,32,34,30,0,0,0,0,46-90,20-48,8,43,51,34,6,4,14,9,Detroit Pistons,DET,99,16,28,24,31,0,0,0,0,42-98,7-37,9,34,43,27,8,4,8,12,Boston Celtics
+"December 12, 2024",Miami Heat,MIA,114,23,35,31,25,0,0,0,0,40-83,13-32,11,41,52,21,4,3,15,11,Toronto Raptors,TOR,104,27,24,25,28,0,0,0,0,41-92,11-32,9,33,42,29,8,5,11,24,Miami Heat
+"December 12, 2024",New Orleans Pelicans,NOP,109,26,29,28,26,0,0,0,0,39-83,14-37,10,33,43,22,6,4,17,22,Sacramento Kings,SAC,111,28,25,38,20,0,0,0,0,37-92,10-33,17,33,50,24,12,2,11,19,Sacramento Kings
+"December 13, 2024",Cleveland Cavaliers,CLE,115,25,32,30,28,0,0,0,0,36-91,15-50,16,34,50,27,10,5,11,14,Washington Wizards,WAS,105,25,29,26,25,0,0,0,0,41-86,14-40,6,38,44,24,7,7,17,28,Cleveland Cavaliers
+"December 13, 2024",Philadelphia 76ers,PHI,107,22,28,33,24,0,0,0,0,37-85,10-25,15,32,47,18,5,4,15,16,Indiana Pacers,IND,121,31,30,29,31,0,0,0,0,47-91,14-38,8,33,41,35,9,4,10,21,Indiana Pacers
+"December 13, 2024",Minnesota Timberwolves,MIN,97,32,18,27,20,0,0,0,0,35-87,9-32,11,37,48,18,12,5,13,14,Los Angeles Lakers,LAL,87,23,21,22,21,0,0,0,0,33-86,10-35,15,38,53,17,7,6,21,21,Minnesota Timberwolves
+"December 13, 2024",Memphis Grizzlies,MEM,135,39,30,38,28,0,0,0,0,52-99,17-36,12,37,49,33,9,4,13,19,Brooklyn Nets,BKN,119,36,20,39,24,0,0,0,0,42-92,20-53,8,33,41,30,9,7,16,20,Memphis Grizzlies
+"December 13, 2024",Chicago Bulls,CHI,109,31,28,23,27,0,0,0,0,37-93,14-51,14,38,52,27,12,11,16,19,Charlotte Hornets,CHA,95,26,18,23,28,0,0,0,0,35-98,8-46,17,37,54,22,7,5,16,20,Chicago Bulls
+"December 13, 2024",Denver Nuggets,DEN,120,29,19,35,37,0,0,0,0,42-77,10-29,5,41,46,23,15,2,21,16,Los Angeles Clippers,LAC,98,22,25,22,29,0,0,0,0,37-83,14-41,5,26,31,24,18,2,19,22,Denver Nuggets
+"December 13, 2024",Utah Jazz,UTA,126,39,32,34,21,0,0,0,0,43-77,22-39,6,28,34,30,5,6,15,17,Phoenix Suns,PHX,134,38,38,36,22,0,0,0,0,47-89,22-45,9,28,37,36,10,7,7,18,Phoenix Suns
+"December 13, 2024",Portland Trail Blazers,POR,116,25,17,46,28,0,0,0,0,42-82,16-41,8,28,36,25,9,5,13,22,San Antonio Spurs,SAS,118,33,19,28,38,0,0,0,0,44-85,14-30,13,28,41,32,5,6,14,13,San Antonio Spurs
+"December 14, 2024",Milwaukee Bucks,MIL,110,26,29,27,28,0,0,0,0,39-86,14-45,6,41,47,28,8,8,12,27,Atlanta Hawks,ATL,102,28,21,34,19,0,0,0,0,35-82,10-24,7,37,44,23,3,6,13,20,Milwaukee Bucks
+"December 14, 2024",Oklahoma City Thunder,OKC,111,18,23,34,36,0,0,0,0,36-80,11-30,4,39,43,19,12,4,12,24,Houston Rockets,HOU,96,20,22,27,27,0,0,0,0,35-96,11-46,19,30,49,17,7,3,16,25,Oklahoma City Thunder
